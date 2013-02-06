@@ -29,7 +29,7 @@
 					<h1>Fer Perales</h1>
 				</div>
 				<p class="lead">
-					Pin a fixed-height footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS.
+					<script src="//about.me/embed/ferperales?image=0&amp;name=0&amp;apps=0&amp;style=site"></script>
 				</p>
 			</div>
 
