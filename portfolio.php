@@ -38,6 +38,10 @@
 					</div>
 					<h1>Portfolio</h1>
 				</div>
+				<div class="span8 offset2">
+
+				</div>
+				
 			</div>
 			<div id="push"></div>
 		</div>
