@@ -38,9 +38,14 @@
 					</div>
 					<h1>Fer Perales</h1>
 				</div>
-				<p class="lead">
-					<script src="//about.me/embed/ferperales?image=0&amp;name=0&amp;apps=0&amp;style=site"></script>
-				</p>
+				<div class="span8 offset2">
+					<p class="lead">
+						<script src="//about.me/embed/ferperales?image=0&amp;name=0&amp;apps=0&amp;style=site"></script>
+					</p>
+				</div>
+				
+				
+
 			</div>
 			<div id="push"></div>
 		</div>
