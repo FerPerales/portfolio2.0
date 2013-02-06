@@ -11,7 +11,9 @@
 		<!-- CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/footer.css" rel="stylesheet">
-
+		<link href="css/font-awesome.min.css" rel="stylesheet"/>
+		<link rel="stylesheet" href="css/font-awesome-social.css" />
+		<link rel="stylesheet" href="css/style.css" />
 		<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 		<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -45,18 +47,18 @@
 					<div class="span8 offset2">
 						<div class="row">
 							<div class="span4 pull-left">
-								<p>October 17th, 1989</p>
-								<p>Zapopan, jalisco, Mexico</p>
-								<p><img src="img/gmail.png" alt="" /></p>
-								<p>33 1088 5718</p>
-								<p><a href="skype:ferperalesm?chat">FerPeralesM</a></p>
+								<p><i class="icon-calendar"></i> October 17th, 1989</p>
+								<p><i class="icon-map-marker"></i> Zapopan, jalisco, Mexico</p>
+								<p><i class="icon-envelope-alt"></i> <img src="img/gmail.png" alt="" /></p>
+								<p><i class="icon-phone-sign"></i> 33 1088 5718</p>
+								<p><i class="icon-skype"></i> <a href="skype:ferperalesm?chat">FerPeralesM</a></p>
 							</div>
 							<div class="span4 pull-right">
-								<p><a href="http://ferperales.net">ferperales.net</a></p>
-								<p><a href="http://blog.ferperales.net" target="_blank">blog.ferperales.net</a></p>
-								<p><a href="http://linkedin.com/in/FerPerales" target="_blank">linkedin.com/in/FerPerales</a></p>
-								<p><a href="http://github.com/FerPerales" target="_blank">github.com/FerPerales</a></p>
-								<p><a href="http://twitter.com/FerPeralesM" target="_blank">@FerPeralesM</a></p>
+								<p><i class="icon-home"></i> <a href="http://ferperales.net">ferperales.net</a></p>
+								<p><i class="icon-rss"></i> <a href="http://blog.ferperales.net" target="_blank">blog.ferperales.net</a></p>
+								<p><i class="icon-linkedin"></i> <a href="http://linkedin.com/in/FerPerales" target="_blank">linkedin.com/in/FerPerales</a></p>
+								<p><i class="icon-github-alt"></i> <a href="http://github.com/FerPerales" target="_blank">github.com/FerPerales</a></p>
+								<p><i class="icon-twitter"></i> <a href="http://twitter.com/FerPeralesM" target="_blank">@FerPeralesM</a></p>
 							</div>
 						</div>
 					</div>
