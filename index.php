@@ -33,7 +33,7 @@
 						  <li><a href="resume.php">Résumé</a></li>
 						  <li><a href="portfolio.php">Portfolio</a></li>						  
 						  <li><a href="contact.php">Contact</a></li>
-						  <li><a href="http://blog.ferperales.net">Blog</a></li>
+						  <li><a href="blog.php">Blog</a></li>
 						</ul>
 					</div>
 					<h1>Fer Perales</h1>
