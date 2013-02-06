@@ -25,8 +25,19 @@
 
 			<!-- Begin page content -->
 			<div class="container">
-				<div class="page-header">
+				<div class="page-header">				
+					<div class="row pull-right">
+						<ul class="nav nav-pills">
+						  <li class="active"><a href="/">Home</a></li>
+						  <li><a href="resume.php">Résumé</a></li>
+						  <li><a href="portfolio.php">Portfolio</a></li>						  
+						  <li><a href="contact.php">Contact</a></li>
+						  <li><a href="http://blog.ferperales.net">Blog</a></li>
+						</ul>
+					</div>
 					<h1>Fer Perales</h1>
+					
+					
 				</div>
 				<p class="lead">
 					<script src="//about.me/embed/ferperales?image=0&amp;name=0&amp;apps=0&amp;style=site"></script>
