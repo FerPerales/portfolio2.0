@@ -26,7 +26,7 @@
 			<!-- Begin page content -->
 			<div class="container">
 				<div class="page-header">
-					<h1>Sticky footer</h1>
+					<h1>Fer Perales</h1>
 				</div>
 				<p class="lead">
 					Pin a fixed-height footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS.
