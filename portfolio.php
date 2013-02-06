@@ -29,7 +29,7 @@
 				<div class="page-header">				
 					<div class="row pull-right">
 						<ul class="nav nav-pills">
-						  <li><a href="/">Home</a></li>
+						  <li><a href="index.php">Home</a></li>
 						  <li><a href="resume.php">Résumé</a></li>
 						  <li class="active"><a href="portfolio.php">Portfolio</a></li>						  
 						  <li><a href="contact.php">Contact</a></li>
