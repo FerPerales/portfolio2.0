@@ -51,11 +51,11 @@
 								<p><a href="skype:ferperalesm?chat">FerPeralesM</a></p>
 							</div>
 							<div class="span4 pull-right">
-								<p>ferperales.net</p>
-								<p>blog.ferperales.net</p>
-								<p>linkedin.com/in/FerPerales</p>
-								<p>github.com/FerPerales</p>
-								<p>@FerPeralesM</p>
+								<p><a href="http://ferperales.net">ferperales.net</a></p>
+								<p><a href="http://blog.ferperales.net" target="_blank">blog.ferperales.net</a></p>
+								<p><a href="http://linkedin.com/in/FerPerales" target="_blank">linkedin.com/in/FerPerales</a></p>
+								<p><a href="http://github.com/FerPerales" target="_blank">github.com/FerPerales</a></p>
+								<p><a href="http://twitter.com/FerPeralesM" target="_blank">@FerPeralesM</a></p>
 							</div>
 						</div>
 					</div>
