@@ -43,19 +43,20 @@
 				<div class="row">
 					<div class="span8 offset2">
 						<div class="row">
-						<div class="span4 pull-left">
-							<p>October 17th, 1989</p>
-							<p>Zapopan, jalisco, Mexico</p>
-							<p><img src="img/gmail.png" alt="" /></p>
-							<p>33 1088 5718</p>
-							<p><a href="skype:ferperalesm?chat">FerPeralesM</a></p>
-						</div>
-						<div class="span4 pull-right">
-							<p>ferperales.net</p>
-							<p>blog.ferperales.net</p>
-							<p>linkedin.com/in/FerPerales</p>
-							<p>github.com/FerPerales</p>
-							<p>@FerPeralesM</p>
+							<div class="span4 pull-left">
+								<p>October 17th, 1989</p>
+								<p>Zapopan, jalisco, Mexico</p>
+								<p><img src="img/gmail.png" alt="" /></p>
+								<p>33 1088 5718</p>
+								<p><a href="skype:ferperalesm?chat">FerPeralesM</a></p>
+							</div>
+							<div class="span4 pull-right">
+								<p>ferperales.net</p>
+								<p>blog.ferperales.net</p>
+								<p>linkedin.com/in/FerPerales</p>
+								<p>github.com/FerPerales</p>
+								<p>@FerPeralesM</p>
+							</div>
 						</div>
 					</div>
 				</div>
