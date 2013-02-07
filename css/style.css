@@ -1,3 +1,7 @@
 .pull-right {
 	text-align: right;
 }
+
+.right-bullet{
+	list-style-position:inside;
+}
