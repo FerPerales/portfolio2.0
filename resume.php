@@ -7,6 +7,13 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="">
 		<meta name="author" content="Fer Perales">
+		
+		<meta property="og:title" content="Fer Perales :: Resume"/>
+		<meta property="og:url" content="http://ferperales.net"/>
+		<meta property="og:image" content="http://ferperales.net/img/favicon.ico"/>
+		<meta property="og:type" content="website"/>
+		<meta property="og:site_name" content="Fer Perales"/>
+		<meta property="og:description" content="Jessica Caldwell is a software craftsman apretience"/>
 
 		<!-- CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
