@@ -153,6 +153,40 @@
 							</div>
 						</div>
 						
+						
+						<div class="row">
+							<h3 align="center"><i class="icon-wrench"></i> Latest projects <i class="icon-wrench"></i></h3>
+							<div class="span4 pull-left">
+								<h4>Online event registration platform for Hacker Garage</h4>		
+								
+								Skills/technologies/languages used:
+								<ul>
+									<li>HTML5/CSS3</li>
+									<li>JavaScript</li>
+									<li>jQuery</li>
+									<li>MySQL</li>
+									<li>PHP</li>
+								</ul>
+
+								<p>Participation: complete development (along with 2 friends)</p>
+								<p>Duration: September 2012 – December 2012</p>
+								
+																							
+							</div>
+							<div class="span4 pull-right">								
+								<h4>Control system for the Scholarship department for C.U.C.E.I.</h4>
+								Skills/technologies/languages used:
+								<ul class="right-bullet" dir="rtl">
+									<li>Java</li>
+									<li>WindowBuilder</li>
+									<li>jasperReports</li>
+									<li>JDBC</li>
+									<li>PostgreSQL</li>
+								</ul>
+								<p>Participation: complete development</p>
+								<p>Duration: March 2011 – November 2011</p>
+							</div>
+						</div>						
 						<hr />
 					</div>
 				</div>
