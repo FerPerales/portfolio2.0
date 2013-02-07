@@ -47,6 +47,7 @@
 					<div class="span8 offset2">
 						<div class="row">
 							<div class="span4 pull-left">
+								<p><h2><i class="icon-user"></i> Personal information</h2></p>
 								<p><i class="icon-calendar"></i> October 17th, 1989</p>
 								<p><i class="icon-map-marker"></i> Zapopan, jalisco, Mexico</p>
 								<p><i class="icon-envelope-alt"></i> <img src="img/gmail.png" alt="" /></p>
@@ -54,6 +55,11 @@
 								<p><i class="icon-skype"></i> <a href="skype:ferperalesm?chat">FerPeralesM</a></p>
 							</div>
 							<div class="span4 pull-right">
+								<p>
+									<h2>
+										Social <i class="icon-comments-alt"></i>
+									</h2>
+								</p>
 								<p><a href="http://ferperales.net">ferperales.net </a><i class="icon-home"></i> </p>
 								<p><a href="http://blog.ferperales.net" target="_blank">blog.ferperales.net</a> <i class="icon-rss"></i></p>
 								<p><a href="http://linkedin.com/in/FerPerales" target="_blank">linkedin.com/in/FerPerales</a> <i class="icon-linkedin"></i></p>
