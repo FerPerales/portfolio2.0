@@ -39,7 +39,7 @@
 					<h1>Portfolio</h1>
 				</div>
 				<div class="span8 offset2">
-
+					<h2>Still working on it</h2>
 				</div>
 				
 			</div>
