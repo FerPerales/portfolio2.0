@@ -86,6 +86,46 @@
 							</div>
 						</div>
 						
+						<div class="row">
+							<h3 align="center"><i class="icon-cog"></i> Technical experience* <i class="icon-cog"></i></h3>
+							<div class="span4 pull-left">
+								<h4>Programming languages</h4>								
+									<ul>
+										<li>Java</li>
+										<li>C</li>
+										<li>C#</li>
+										<li>Python</li>
+										<li>Ruby</li>
+									</ul>
+								<h4>Web development </h4>									
+									<ul>
+										<li>HTML5</li>
+										<li>CSS3</li>
+										<li>JavaScript</li>
+										<li>PHP</li>
+										<li>Ajax</li></ul>
+									</div>
+							<div class="span4 pull-right">
+								
+								<h4>Mobile development</h4>
+								<ul class="right-bullet" dir="rtl">
+									<li>Android</li>
+								</ul>
+								<h4>Frameworks, APIs and other tools</h4>
+									<ul class="right-bullet" dir="rtl">
+										<li>JDBC/ODBC</li>
+										<li>Foundation and Bootstrap</li>
+										<li>jQuery</li>
+										<li>jasperReports</li>
+										<li>Drupal/Wordpress</li>
+										<li>backbone.js, knockout.js and sammy.js</li>
+										<li>node.js</li>
+										<li>Twitter API (PHP)</li>
+									</ul>
+								</h4>
+								<p>*(Descending order of experience)</p>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
