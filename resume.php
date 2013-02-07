@@ -61,6 +61,24 @@
 								<p><a href="http://twitter.com/FerPeralesM" target="_blank">@FerPeralesM</a> <i class="icon-twitter"></i></p>
 							</div>
 						</div>
+						<hr />
+						<div class="row">
+							<div class="span8">
+								<h3 align="center">Academic formation</h3>
+								<h4>University of  Guadalajara  –  University Center of Exact  Sciences and	Engineering (CUCEI)</h4>
+								<p>B. Cs. Computer Engineering</p>
+								<p>2008 - 2012</p>
+							</div>
+						</div>
+						<div class="row">
+							<div class="span8">
+								<h4>Instituto Cultural Mexicano-Norteamericano de Jalisco</h4>
+									<p>Basic program of English for Adults (1 year)</p>
+									<p>Proficiency program of English for Adults (1 year)</p>
+									<p>Teacher Training Program (1 year)</p>
+							</div>
+						</div>
+						
 					</div>
 				</div>
 			</div>
