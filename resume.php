@@ -51,7 +51,7 @@
 								<p><h2><i class="icon-user"></i> Personal information</h2></p>
 								<p><i class="icon-calendar"></i> October 17th, 1989</p>
 								<p><i class="icon-map-marker"></i> Zapopan, jalisco, Mexico</p>
-								<p><i class="icon-envelope-alt"></i> <img src="image/gmail.png" alt="" /></p>
+								<p><i class="icon-envelope-alt"></i> <img src="img/mail.png" alt="" /></p>
 								<p><i class="icon-phone-sign"></i> 33 1088 5718</p>
 								<p><i class="icon-skype"></i> <a href="skype:ferperalesm?chat">FerPeralesM</a></p>
 							</div>
@@ -68,11 +68,17 @@
 								<p><a href="http://twitter.com/FerPeralesM" target="_blank">@FerPeralesM</a> <i class="icon-twitter"></i></p>
 							</div>
 						</div>
-						<hr />
-						<div class="row">
-							<div class="span8">
-								<h3 align="center"><i class="icon-book"></i> Academic formation <i class="icon-book"></i></h3>
-								<h4>University of Guadalajara – University Center of Exact Sciences and	Engineering (CUCEI)</h4>
+						<hr />											
+						<div class="accordion" id="accordion2">
+						  <div class="accordion-group">
+						    <div class="accordion-heading">
+						      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+						        <h3 align="center"><i class="icon-book"></i> Academic formation <i class="icon-book"></i></h3>								
+						      </a>
+						    </div>
+						    <div id="collapseOne" class="accordion-body collapse in">
+						      <div class="accordion-inner">
+						        <h4>University of Guadalajara – University Center of Exact Sciences and	Engineering (CUCEI)</h4>
 								<p>B. Cs. Computer Engineering</p>
 								<p>2008 - 2012</p>
 								
@@ -80,85 +86,158 @@
 								<p>Basic program of English for Adults (1 year)</p>
 								<p>Proficiency program of English for Adults (1 year)</p>
 								<p>Teacher Training Program (1 year)</p>
-							</div>
-						</div>
-						<div class="row">
-							<div class="span8">
-								
-							</div>
-						</div>
-						
-						<div class="row">
-							<h3 align="center"><i class="icon-cog"></i> Technical experience* <i class="icon-cog"></i></h3>
-							<div class="span4 pull-left">
-								<h4>Programming languages</h4>								
-									<ul>
-										<li>Java</li>
-										<li>C</li>
-										<li>C#</li>
-										<li>Python</li>
-										<li>Ruby</li>
-									</ul>
-								<h4>Web development </h4>									
-									<ul>
-										<li>HTML5</li>
-										<li>CSS3</li>
-										<li>JavaScript</li>
-										<li>PHP</li>
-										<li>Ajax</li></ul>
+						      </div>
+						    </div>
+						  </div>
+						  <div class="accordion-group">
+						    <div class="accordion-heading">
+						      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+				     			<h3 align="center"><i class="icon-cog"></i> Technical experience* <i class="icon-cog"></i></h3>							
+						      </a>
+						    </div>
+						    <div id="collapseTwo" class="accordion-body collapse">
+						      <div class="accordion-inner">						        						        
+						        <div class="row">
+									<div class="span4 pull-left">
+										<h4>Programming languages</h4>
+										<ul>
+											<li>
+												Java
+											</li>
+											<li>
+												C
+											</li>
+											<li>
+												C#
+											</li>
+											<li>
+												Python
+											</li>
+											<li>
+												Ruby
+											</li>
+										</ul>
+										<h4>Web development </h4>
+										<ul>
+											<li>
+												HTML5
+											</li>
+											<li>
+												CSS3
+											</li>
+											<li>
+												JavaScript
+											</li>
+											<li>
+												PHP
+											</li>
+											<li>
+												Ajax
+											</li>
+										</ul>
 									</div>
-							<div class="span4 pull-right">								
-								<h4>Mobile development</h4>
-								<ul class="right-bullet" dir="rtl">
-									<li>Android</li>
-								</ul>
-								<h4>Frameworks, APIs and other tools</h4>
-									<ul class="right-bullet" dir="rtl">
-										<li>JDBC/ODBC</li>
-										<li>Foundation and Bootstrap</li>
-										<li>jQuery</li>
-										<li>jasperReports</li>
-										<li>Drupal/Wordpress</li>
-										<li>backbone.js, knockout.js and sammy.js</li>
-										<li>node.js</li>
-										<li>Twitter API PHP</li>
-									</ul>
-								</h4>
-								<p>*(Descending order of experience)</p>
-							</div>
-						</div>
+									<div class="span4 pull-right">
+										<h4>Mobile development</h4>
+										<ul class="right-bullet" dir="rtl">
+											<li>
+												Android
+											</li>
+										</ul>
+										<h4>Frameworks, APIs and other tools</h4>
+										<ul class="right-bullet" dir="rtl">
+											<li>
+												JDBC/ODBC
+											</li>
+											<li>
+												Foundation and Bootstrap
+											</li>
+											<li>
+												jQuery
+											</li>
+											<li>
+												jasperReports
+											</li>
+											<li>
+												Drupal/Wordpress
+											</li>
+											<li>
+												backbone.js, knockout.js and sammy.js
+											</li>
+											<li>
+												node.js
+											</li>
+											<li>
+												Twitter API PHP
+											</li>
+										</ul>
+										</h4>
+										<p>
+											*(Descending order of experience)
+										</p>
+									</div>
+								</div>
 
-						<div class="row">
-							<div class="span8">
-								<h4>Extras</h4>
-								<ul>
-									<li>Databases (mySQL, postgreSQL and BD2)</li>
-									<li>CASE tools (DIA, mySQL Workbench)</li>
-									<li>Mockup tools (Pencil, Balsamiq mockups)</li>
-									<li>IDEs/text editors (Eclipse, AptanaStudio, SharpDevelop, Codeblock, SublimeText, vim)</li>
-									<li>Scripting (basic knowledge of CMD and BASH)</li>
-									<li>CVS (git)</li>
-									<li>Deployment (Heroku, FTP)</li>
-								</ul>								
-							</div>
-						</div>
-						
-						<div class="row">
-							<div class="span8">
-								<h3 align="center"><i class="icon-trophy"></i> Certificacions and diplomas <i class="icon-trophy"></i></h3>							
-								<ul>
+								<div class="row">
+									<div class="span8">
+										<h4>Extras</h4>
+										<ul>
+											<li>
+												Databases (mySQL, postgreSQL and BD2)
+											</li>
+											<li>
+												CASE tools (DIA, mySQL Workbench)
+											</li>
+											<li>
+												Mockup tools (Pencil, Balsamiq mockups)
+											</li>
+											<li>
+												IDEs/text editors (Eclipse, AptanaStudio, SharpDevelop, Codeblock, SublimeText, vim)
+											</li>
+											<li>
+												Scripting (basic knowledge of CMD and BASH)
+											</li>
+											<li>
+												CVS (git)
+											</li>
+											<li>
+												Deployment (Heroku, FTP)
+											</li>
+										</ul>
+									</div>
+								</div>
+
+						        
+						        
+						        
+						      </div>
+						    </div>
+						  </div>
+						  <div class="accordion-group">
+						    <div class="accordion-heading">
+						      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
+						        <h3 align="center"><i class="icon-trophy"></i> Certificacions and diplomas <i class="icon-trophy"></i></h3>															
+						      </a>
+						    </div>
+						    <div id="collapseThree" class="accordion-body collapse">
+						      <div class="accordion-inner">
+						        <ul>
 									<li>IBM BD2 Certified Academic Associate</li>
 									<li>ICMNJ Certified Teacher Training Program</li>
 									<li>Microsoft HTML5 &amp; Internet Explorer 9 Developer Fundamentals</li>
 									<li>Oracle Certified Java Programmer </li>
-								</ul>								
-							</div>
-						</div>
-						
-						
-						<div class="row">
-							<h3 align="center"><i class="icon-wrench"></i> Latest projects <i class="icon-wrench"></i></h3>
-							<div class="span4 pull-left">
+								</ul>	
+						      </div>
+						    </div>
+						  </div>
+						  <div class="accordion-group">
+						    <div class="accordion-heading">
+						      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour">
+						        <h3 align="center"><i class="icon-wrench"></i> Latest projects <i class="icon-wrench"></i></h3>
+						      </a>
+						    </div>
+						    <div id="collapseFour" class="accordion-body collapse">
+						      <div class="accordion-inner">
+						        <div class="span4 pull-left">
 								<h4>Online event registration platform for Hacker Garage</h4>		
 								
 								Skills/technologies/languages used:
@@ -188,13 +267,18 @@
 								<p>Participation: complete development</p>
 								<p>Duration: March 2011 – November 2011</p>
 							</div>
-						</div>		
-						
-						
-						<div class="row">
-							<div class="span8">
-								<h3 align="center"><i class="icon-certificate"></i> Workshops and courses given <i class="icon-certificate"></i></h3>							
-								<h4>DIVECFest 2012 – Universidad de Guadalajara – CUCEI</h4>	
+						      </div>
+						    </div>
+						  </div>
+						  <div class="accordion-group">
+						    <div class="accordion-heading">
+						      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFive">
+						        <h3 align="center"><i class="icon-certificate"></i> Workshops and courses given <i class="icon-certificate"></i></h3>															
+						      </a>
+						    </div>
+						    <div id="collapseFive" class="accordion-body collapse">
+						      <div class="accordion-inner">
+						        <h4>DIVECFest 2012 – Universidad de Guadalajara – CUCEI</h4>	
 								<ul>
 									<li>Workshop: Desarrollo de aplicaciones móviles con Phonegap (Mobile application development with Phonegap) (4 hours)</li>
 									<li>Conference: Introducción a bases de datos noSQL (Introduction to noSQL databases) (1 hour)</li>
@@ -203,11 +287,12 @@
 								<h4>2do encuentro estudiantil Ingenieros al ataque – Centro del Software</h4>		
 								<ul>
 									<li>Informal talk: Introducción a Lean Startup (Introduction to Lean Startup) (1 hour)</li>
-								</ul>			
-							</div>
+								</ul>	
+						      </div>
+						    </div>
+						  </div>
 						</div>
-										
-						<hr />
+
 					</div>
 				</div>
 			</div>
