@@ -49,6 +49,7 @@
 					<h1>Contact</h1>
 				</div>
 				
+				<h1>Form is not working right now but you can send me an email </h1>
 				<div class="span8 offset2">										
 				  <form class="form-horizontal">
 				    <fieldset>
@@ -98,10 +99,10 @@
 				    <div class="control-group">
 				
 				          <!-- Textarea -->
-				          <label class="control-label">Content</label>
+				          <label class="control-label">Comment</label>
 				          <div class="controls">
 				            <div class="textarea">
-				                  <textarea type="" class="" style="margin: 0px; height: 36px; width: 210px;"> </textarea>
+				                  <textarea type="" class="" cols="60" > </textarea>
 				            </div>
 				          </div>
 				        </div>
