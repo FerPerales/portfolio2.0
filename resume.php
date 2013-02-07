@@ -51,7 +51,7 @@
 								<p><h2><i class="icon-user"></i> Personal information</h2></p>
 								<p><i class="icon-calendar"></i> October 17th, 1989</p>
 								<p><i class="icon-map-marker"></i> Zapopan, jalisco, Mexico</p>
-								<p><i class="icon-envelope-alt"></i> <img src="img/gmail.png" alt="" /></p>
+								<p><i class="icon-envelope-alt"></i> <img src="image/gmail.png" alt="" /></p>
 								<p><i class="icon-phone-sign"></i> 33 1088 5718</p>
 								<p><i class="icon-skype"></i> <a href="skype:ferperalesm?chat">FerPeralesM</a></p>
 							</div>
