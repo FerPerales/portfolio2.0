@@ -49,12 +49,76 @@
 					<h1>Contact</h1>
 				</div>
 				
-				<div class="span8 offset2">
-					<div id="disqus_thread"></div>
-					<noscript>
-						Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-					</noscript>
-					<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+				<div class="span8 offset2">										
+				  <form class="form-horizontal">
+				    <fieldset>
+				     
+				    
+				
+				    <div class="control-group">
+				
+				          <!-- Text input-->
+				          <label class="control-label" for="input01">Name</label>
+				          <div class="controls">
+				            <input type="text" placeholder="" class="input-xlarge">
+				            <p class="help-block"></p>
+				          </div>
+				        </div><div class="control-group">
+				
+				          <!-- Text input-->
+				          <label class="control-label" for="input01">Mail</label>
+				          <div class="controls">
+				            <input type="text" placeholder="Your email" class="input-xlarge">
+				            <p class="help-block"></p>
+				          </div>
+				        </div>
+								    				
+				    <div class="control-group">
+				
+				          <!-- Text input-->
+				          <label class="control-label" for="input01">Web</label>
+				          <div class="controls">
+				            <input type="text" placeholder="" class="input-xlarge">
+				            <p class="help-block"></p>
+				          </div>
+				        </div><div class="control-group">
+				
+				          <!-- Select Basic -->
+				          <label class="control-label">Reason</label>
+				          <div class="controls">
+				            <select class="input-xlarge">
+				      <option>Want to work together</option>
+				      <option>Need some help</option>
+				      <option>Just want to say hi!</option>
+				      <option>Your page is cool! Kudos</option>
+				      <option>Other</option></select>
+				          </div>				
+				        </div>
+
+				    <div class="control-group">
+				
+				          <!-- Textarea -->
+				          <label class="control-label">Content</label>
+				          <div class="controls">
+				            <div class="textarea">
+				                  <textarea type="" class="" style="margin: 0px; height: 36px; width: 210px;"> </textarea>
+				            </div>
+				          </div>
+				        </div>
+				
+				    <div class="control-group">
+				          <label class="control-label"></label>
+				
+				          <!-- Button -->
+				          <div class="controls">
+				            <button class="btn btn-success">Send</button>
+				          </div>
+				        </div>
+				
+				    </fieldset>
+				  </form>
+
+
 				</div>
 			</div>
 			<div id="push"></div>
