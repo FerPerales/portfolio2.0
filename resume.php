@@ -72,7 +72,7 @@
 						<div class="row">
 							<div class="span8">
 								<h3 align="center"><i class="icon-book"></i> Academic formation <i class="icon-book"></i></h3>
-								<h4>University of  Guadalajara  –  University Center of Exact  Sciences and	Engineering (CUCEI)</h4>
+								<h4>University of Guadalajara – University Center of Exact Sciences and	Engineering (CUCEI)</h4>
 								<p>B. Cs. Computer Engineering</p>
 								<p>2008 - 2012</p>
 							</div>
