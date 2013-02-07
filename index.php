@@ -16,14 +16,11 @@
 		<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
-
 	</head>
 
 	<body>
-
 		<!-- Part 1: Wrap all page content here -->
 		<div id="wrap">
-
 			<!-- Begin page content -->
 			<div class="container">
 				<div class="page-header">				
@@ -40,7 +37,7 @@
 				</div>			
 				<div class="span8 offset2">
 					<h2 align="center">About me</h2>
-					<p >
+					<p>
 						<script src="//about.me/embed/ferperales?image=0&amp;name=0&amp;apps=0&amp;style=site"></script>
 					</p>
 					<hr/>
@@ -53,12 +50,8 @@
 							<li><a href="https://github.com/FerPerales/store">Store: </a>a project started in the Ruby on Rails bootcamp by Crowd Interactive - Ruby on Rails</li>
 							<li><a href="http://songfly.me/">Songfly.me</a> - a collaborative social platform in which users from all around the world can upload their tracks, share them with other users and together they can create a brand new song. I'm working in both the front and the back-end </li>						
 						</ul>
-					</section>	
-					
+					</section>						
 				</div>
-				
-				
-
 			</div>
 			<div id="push"></div>
 		</div>
