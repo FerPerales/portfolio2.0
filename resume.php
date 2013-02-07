@@ -75,14 +75,16 @@
 								<h4>University of Guadalajara – University Center of Exact Sciences and	Engineering (CUCEI)</h4>
 								<p>B. Cs. Computer Engineering</p>
 								<p>2008 - 2012</p>
+								
+								<h4>Instituto Cultural Mexicano-Norteamericano de Jalisco</h4>
+								<p>Basic program of English for Adults (1 year)</p>
+								<p>Proficiency program of English for Adults (1 year)</p>
+								<p>Teacher Training Program (1 year)</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="span8">
-								<h4>Instituto Cultural Mexicano-Norteamericano de Jalisco</h4>
-									<p>Basic program of English for Adults (1 year)</p>
-									<p>Proficiency program of English for Adults (1 year)</p>
-									<p>Teacher Training Program (1 year)</p>
+								
 							</div>
 						</div>
 						
