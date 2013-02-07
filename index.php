@@ -37,9 +37,10 @@
 						</ul>
 					</div>
 					<h1>Fer Perales</h1>
-				</div>
+				</div>			
 				<div class="span8 offset2">
-					<p class="lead">
+					<h2 align="center">About me</h2>
+					<p >
 						<script src="//about.me/embed/ferperales?image=0&amp;name=0&amp;apps=0&amp;style=site"></script>
 					</p>
 					<hr/>
