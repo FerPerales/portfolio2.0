@@ -13,6 +13,7 @@
 		<link href="css/footer.css" rel="stylesheet">
 		<link href="css/font-awesome.min.css" rel="stylesheet"/>
 		<link rel="stylesheet" href="css/font-awesome-social.css" />
+		<link rel="stylesheet" href="css/font-awesome-ext.css" />
 		<link rel="stylesheet" href="css/style.css" />
 		<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 		<!--[if lt IE 9]>
@@ -41,7 +42,7 @@
 					<h1>Résumé</h1>
 				</div>
 				<div class="row">
-					<div class="pull-right">Download <a href="cv/"><img src="img/pdf_icon.gif" alt="" /></a></div>
+					<div class="pull-right">Download <a href="cv/"><i class="icon-adobe-pdf"></i></a></div>
 				</div>
 				<div class="row">
 					<div class="span8 offset2">
