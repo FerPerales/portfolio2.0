@@ -49,7 +49,7 @@
 					<h1>Contact</h1>
 				</div>
 				
-				<h1>Form is not working right now but you can send me an email </h1>
+				<h1>Form is not working right now, but you can send me an email </h1>
 				<div class="span8 offset2">										
 				  <form class="form-horizontal">
 				    <fieldset>

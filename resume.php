@@ -98,7 +98,7 @@
 						    <div id="collapseTwo" class="accordion-body collapse">
 						      <div class="accordion-inner">						        						        
 						        <div class="row">
-									<div class="span4 pull-left">
+									<div class="span3 pull-left">
 										<h4>Programming languages</h4>
 										<ul>
 											<li>
@@ -136,7 +136,7 @@
 											</li>
 										</ul>
 									</div>
-									<div class="span4 pull-right">
+									<div class="span3 pull-right">
 										<h4>Mobile development</h4>
 										<ul class="right-bullet" dir="rtl">
 											<li>
@@ -205,10 +205,6 @@
 										</ul>
 									</div>
 								</div>
-
-						        
-						        
-						        
 						      </div>
 						    </div>
 						  </div>
@@ -237,7 +233,7 @@
 						    </div>
 						    <div id="collapseFour" class="accordion-body collapse">
 						      <div class="accordion-inner">
-						        <div class="span4 pull-left">
+						        <div class="span3 pull-left">
 								<h4>Online event registration platform for Hacker Garage</h4>		
 								
 								Skills/technologies/languages used:
@@ -254,7 +250,7 @@
 								
 																							
 							</div>
-							<div class="span4 pull-right">								
+							<div class="span3 pull-right">								
 								<h4>Control system for the Scholarship department for C.U.C.E.I.</h4>
 								Skills/technologies/languages used:
 								<ul class="right-bullet" dir="rtl">
