@@ -54,11 +54,11 @@
 								<p><i class="icon-skype"></i> <a href="skype:ferperalesm?chat">FerPeralesM</a></p>
 							</div>
 							<div class="span4 pull-right">
-								<p><i class="icon-home"></i> <a href="http://ferperales.net">ferperales.net</a></p>
-								<p><i class="icon-rss"></i> <a href="http://blog.ferperales.net" target="_blank">blog.ferperales.net</a></p>
-								<p><i class="icon-linkedin"></i> <a href="http://linkedin.com/in/FerPerales" target="_blank">linkedin.com/in/FerPerales</a></p>
-								<p><i class="icon-github-alt"></i> <a href="http://github.com/FerPerales" target="_blank">github.com/FerPerales</a></p>
-								<p><i class="icon-twitter"></i> <a href="http://twitter.com/FerPeralesM" target="_blank">@FerPeralesM</a></p>
+								<p><a href="http://ferperales.net">ferperales.net </a><i class="icon-home"></i> </p>
+								<p><a href="http://blog.ferperales.net" target="_blank">blog.ferperales.net</a> <i class="icon-rss"></i></p>
+								<p><a href="http://linkedin.com/in/FerPerales" target="_blank">linkedin.com/in/FerPerales</a> <i class="icon-linkedin"></i></p>
+								<p><a href="http://github.com/FerPerales" target="_blank">github.com/FerPerales </a><i class="icon-github-alt"></i></p>
+								<p><a href="http://twitter.com/FerPeralesM" target="_blank">@FerPeralesM</a> <i class="icon-twitter"></i></p>
 							</div>
 						</div>
 					</div>
