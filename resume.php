@@ -186,7 +186,25 @@
 								<p>Participation: complete development</p>
 								<p>Duration: March 2011 – November 2011</p>
 							</div>
-						</div>						
+						</div>		
+						
+						
+						<div class="row">
+							<div class="span8">
+								<h3 align="center"><i class="icon-certificate"></i> Workshops and courses given <i class="icon-certificate"></i></h3>							
+								<h4>DIVECFest 2012 – Universidad de Guadalajara – CUCEI</h4>	
+								<ul>
+									<li>Workshop: Desarrollo de aplicaciones móviles con Phonegap (Mobile application development with Phonegap) (4 hours)</li>
+									<li>Conference: Introducción a bases de datos noSQL (Introduction to noSQL databases) (1 hour)</li>
+									<li>Conference: Piensa y emprende: introducción a la metodología Lean Startup (Think and startup: introduction to Lean Startup methodology) (1 hour)</li>
+								</ul>	
+								<h4>2do encuentro estudiantil Ingenieros al ataque – Centro del Software</h4>		
+								<ul>
+									<li>Informal talk: Introducción a Lean Startup (Introduction to Lean Startup) (1 hour)</li>
+								</ul>			
+							</div>
+						</div>
+										
 						<hr />
 					</div>
 				</div>
