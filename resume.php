@@ -13,7 +13,7 @@
 		<meta property="og:image" content="http://ferperales.net/img/favicon.ico"/>
 		<meta property="og:type" content="website"/>
 		<meta property="og:site_name" content="Fer Perales"/>
-		<meta property="og:description" content="Jessica Caldwell is a software craftsman apretience"/>
+		<meta property="og:description" content="Fer Perales is a software craftsman apretience"/>
 
 		<!-- CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
