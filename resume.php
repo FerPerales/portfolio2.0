@@ -105,8 +105,7 @@
 										<li>PHP</li>
 										<li>Ajax</li></ul>
 									</div>
-							<div class="span4 pull-right">
-								
+							<div class="span4 pull-right">								
 								<h4>Mobile development</h4>
 								<ul class="right-bullet" dir="rtl">
 									<li>Android</li>
@@ -120,10 +119,25 @@
 										<li>Drupal/Wordpress</li>
 										<li>backbone.js, knockout.js and sammy.js</li>
 										<li>node.js</li>
-										<li>Twitter API (PHP)</li>
+										<li>Twitter API PHP</li>
 									</ul>
 								</h4>
 								<p>*(Descending order of experience)</p>
+							</div>
+						</div>
+						
+						<div class="row">
+							<div class="span8">
+								<h4>Extras</h4>
+								<ul>
+									<li>Databases (mySQL, postgreSQL and BD2)</li>
+									<li>CASE tools (DIA, mySQL Workbench)</li>
+									<li>Mockup tools (Pencil, Balsamiq mockups)</li>
+									<li>IDEs/text editors (Eclipse, AptanaStudio, SharpDevelop, Codeblock, SublimeText, vim)</li>
+									<li>Scripting (basic knowledge of CMD and BASH)</li>
+									<li>CVS (git)</li>
+									<li>Deployment (Heroku, FTP)</li>
+								</ul>								
 							</div>
 						</div>
 					</div>
