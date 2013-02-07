@@ -125,7 +125,7 @@
 								<p>*(Descending order of experience)</p>
 							</div>
 						</div>
-						
+
 						<div class="row">
 							<div class="span8">
 								<h4>Extras</h4>
@@ -140,6 +140,20 @@
 								</ul>								
 							</div>
 						</div>
+						
+						<div class="row">
+							<div class="span8">
+								<h3 align="center"><i class="icon-trophy"></i> Certificacions and diplomas <i class="icon-trophy"></i></h3>							
+								<ul>
+									<li>IBM BD2 Certified Academic Associate</li>
+									<li>ICMNJ Certified Teacher Training Program</li>
+									<li>Microsoft HTML5 &amp; Internet Explorer 9 Developer Fundamentals</li>
+									<li>Oracle Certified Java Programmer </li>
+								</ul>								
+							</div>
+						</div>
+						
+						<hr />
 					</div>
 				</div>
 			</div>
