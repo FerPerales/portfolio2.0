@@ -49,7 +49,7 @@
 						<ul>						
 							<li><a href="http://fb.com/groups/rubyCUCEI">The rubyCUCEI self-learning group:</a> We gathered every saturday to learn ruby and ruby on rails </a><span class="label label-warning">On hold until February 2013 </span></li>							
 							<li><a href="https://github.com/FerPerales/RailsDO-list">A ToDo list</a> - Ruby on Rails</li>
-							<li><a href="https://github.com/FerPerales/store">A project started in the Ruby on Rails bootcamp by Crowd Interactive</a> - Ruby on Rails</li>
+							<li><a href="https://github.com/FerPerales/store">Store: </a>a project started in the Ruby on Rails bootcamp by Crowd Interactive - Ruby on Rails</li>
 							<li><a href="http://songfly.me/">Songfly.me</a> - a collaborative social platform in which users from all around the world can upload their tracks, share them with other users and together they can create a brand new song. I'm working in both the front and the back-end </li>						
 						</ul>
 					</section>	
