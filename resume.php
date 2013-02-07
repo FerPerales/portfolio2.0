@@ -208,7 +208,7 @@
 													</li>
 												</ul>
 												</h4>
-												<p>
+												<p class="text-info">
 													*(Descending order of experience)
 												</p>
 											</div>
