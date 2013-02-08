@@ -77,7 +77,7 @@
 									<i class="icon-map-marker"></i> Zapopan, jalisco, Mexico
 								</p>
 								<p>
-									<i class="icon-envelope-alt"></i><img src="/img/mail.png" alt="" />
+									<i class="icon-envelope-alt"></i><img src="img/mail.png" alt="" />
 								</p>
 								<p>
 									<i class="icon-phone-sign"></i> 33 1088 5718
