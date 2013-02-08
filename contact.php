@@ -57,76 +57,66 @@
 				</div>
 				
 				<h1>Form is not working right now, but you can send me an email </h1>
-				<div class="span8 offset2">										
-				  <form class="form-horizontal">
-				    <fieldset>
-				     
-				    
-				
-				    <div class="control-group">
-				
-				          <!-- Text input-->
-				          <label class="control-label" for="input01">Name</label>
-				          <div class="controls">
-				            <input type="text" placeholder="" class="input-xlarge">
-				            <p class="help-block"></p>
-				          </div>
-				        </div><div class="control-group">
-				
-				          <!-- Text input-->
-				          <label class="control-label" for="input01">Mail</label>
-				          <div class="controls">
-				            <input type="text" placeholder="Your email" class="input-xlarge">
-				            <p class="help-block"></p>
-				          </div>
-				        </div>
-								    				
-				    <div class="control-group">
-				
-				          <!-- Text input-->
-				          <label class="control-label" for="input01">Web</label>
-				          <div class="controls">
-				            <input type="text" placeholder="" class="input-xlarge">
-				            <p class="help-block"></p>
-				          </div>
-				        </div><div class="control-group">
-				
-				          <!-- Select Basic -->
-				          <label class="control-label">Reason</label>
-				          <div class="controls">
-				            <select class="input-xlarge">
-				      <option>Want to work together</option>
-				      <option>Need some help</option>
-				      <option>Just want to say hi!</option>
-				      <option>Your page is cool! Kudos</option>
-				      <option>Other</option></select>
-				          </div>				
-				        </div>
-
-				    <div class="control-group">
-				
-				          <!-- Textarea -->
-				          <label class="control-label">Comment</label>
-				          <div class="controls">
-				            <div class="textarea">
-				                  <textarea type="" class="" cols="60" > </textarea>
-				            </div>
-				          </div>
-				        </div>
-				
-				    <div class="control-group">
-				          <label class="control-label"></label>
-				
-				          <!-- Button -->
-				          <div class="controls">
-				            <button class="btn btn-success">Send</button>
-				          </div>
-				        </div>
-				
-				    </fieldset>
-				  </form>
-
-
+				<div class="span8 offset2">
+					<form class="form-horizontal">
+						<fieldset>
+							<div class="control-group">
+								<!-- Text input-->
+								<label class="control-label" for="input01">Name</label>
+								<div class="controls">
+									<input type="text" placeholder="" class="input-xlarge">
+									<p class="help-block"></p>
+								</div>
+							</div>
+							<div class="control-group">
+								<!-- Text input-->
+								<label class="control-label" for="input01">Mail</label>
+								<div class="controls">
+									<input type="text" placeholder="Your email" class="input-xlarge">
+									<p class="help-block"></p>
+								</div>
+							</div>
+							<div class="control-group">
+								<!-- Text input-->
+								<label class="control-label" for="input01">Web</label>
+								<div class="controls">
+									<input type="text" placeholder="" class="input-xlarge">
+									<p class="help-block"></p>
+								</div>
+							</div>
+							<div class="control-group">
+								<!-- Select Basic -->
+								<label class="control-label">Reason</label>
+								<div class="controls">
+									<select class="input-xlarge">
+										<option>Want to work together</option>
+										<option>Need some help</option>
+										<option>Just want to say hi!</option>
+										<option>Your page is cool! Kudos</option>
+										<option>Other</option>
+									</select>
+								</div>
+							</div>
+							<div class="control-group">
+								<!-- Textarea -->
+								<label class="control-label">Comment</label>
+								<div class="controls">
+									<div class="textarea">
+										<textarea type="" class="" cols="60" > </textarea>
+									</div>
+								</div>
+							</div>
+							<div class="control-group">
+								<label class="control-label"></label>
+								<!-- Button -->
+								<div class="controls">
+									<button class="btn btn-success">
+										Send
+									</button>
+								</div>
+							</div>
+						</fieldset>
+					</form>
 				</div>
 			</div>
 			<div id="push"></div>
