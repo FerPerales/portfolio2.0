@@ -77,33 +77,33 @@
 									<i class="icon-map-marker"></i> Zapopan, jalisco, Mexico
 								</p>
 								<p>
-									<i class="icon-envelope-alt"></i><img src="img/mail.png" alt="" />
+									<i class="icon-envelope-alt"></i> <img src="http://ferperales.net/nuevo/img/mail.png" alt="" />
 								</p>
 								<p>
 									<i class="icon-phone-sign"></i> 33 1088 5718
 								</p>
 								<p>
-									<i class="icon-skype"></i><a href="skype:ferperalesm?chat">FerPeralesM</a>
+									<i class="icon-skype"></i><a href="skype:ferperalesm?chat"> FerPeralesM</a>
 								</p>
 							</div>
 							<div class="span4 pull-right">
 								<p>
-									<h2> Social <i class="icon-comments-alt"></i></h2>
+									<h2>Social <i class="icon-comments-alt"></i></h2>
 								</p>
 								<p>
 									<a href="http://ferperales.net">ferperales.net </a><i class="icon-home"></i>
 								</p>
 								<p>
-									<a href="http://blog.ferperales.net" target="_blank">blog.ferperales.net</a><i class="icon-rss"></i>
+									<a href="http://blog.ferperales.net" target="_blank">blog.ferperales.net </a><i class="icon-rss"></i>
 								</p>
 								<p>
-									<a href="http://linkedin.com/in/FerPerales" target="_blank">linkedin.com/in/FerPerales</a><i class="icon-linkedin"></i>
+									<a href="http://linkedin.com/in/FerPerales" target="_blank">linkedin.com/in/FerPerales </a><i class="icon-linkedin"></i>
 								</p>
 								<p>
 									<a href="http://github.com/FerPerales" target="_blank">github.com/FerPerales </a><i class="icon-github-alt"></i>
 								</p>
 								<p>
-									<a href="http://twitter.com/FerPeralesM" target="_blank">@FerPeralesM</a><i class="icon-twitter"></i>
+									<a href="http://twitter.com/FerPeralesM" target="_blank">@FerPeralesM </a><i class="icon-twitter"></i>
 								</p>
 							</div>
 						</div>
