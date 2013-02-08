@@ -77,7 +77,7 @@
 									<i class="icon-map-marker"></i> Zapopan, jalisco, Mexico
 								</p>
 								<p>
-									<i class="icon-envelope-alt"></i> <img src="http://ferperales.net/nuevo/img/mail.png" alt="" />
+									<i class="icon-envelope-alt"></i> <img src="img/gmail.png" alt="" />
 								</p>
 								<p>
 									<i class="icon-phone-sign"></i> 33 1088 5718
