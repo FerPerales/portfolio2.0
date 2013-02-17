@@ -51,7 +51,13 @@
 							<div class="span4 pull-left">
 								I have a blog where I write in Spanish 
 							</div>
-							<div class="span4 pull-right"></div>
+							<div class="span4 pull-right">
+								<script type="text/javascript"> 
+									$(document).ready(function() { 
+									        $('a.feed').gFeed( { target: '#feeds', tabs: true } ); 
+									    }); 
+								</script>
+							</div>
 						</div>
 					</div>
 			</div>
