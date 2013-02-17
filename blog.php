@@ -18,6 +18,9 @@
 		<!-- CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/footer.css" rel="stylesheet">
+		
+		
+		<script src="js/jquery-1.9.1.min.js"></script>
 
 		<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 		<!--[if lt IE 9]>
@@ -47,17 +50,29 @@
 				</div>
 				
 					<div class="row">
-						<div class="span8 offset2">
-							<div class="span4 pull-left">
-								I have a blog where I write in Spanish 
+						<div class="span8 offset2">	
+							<div class="row pull-right">
+								<div class="span4">
+									I have a <a href="http://blog.ferperales.net">blog</a> written mostly in Spanish where I write about technology, programming, designer, startups, music and more.						
+								</div>
 							</div>
-							<div class="span4 pull-right">
-								<script type="text/javascript"> 
-									$(document).ready(function() { 
-									        $('a.feed').gFeed( { target: '#feeds', tabs: true } ); 
-									    }); 
-								</script>
+							<div class="row pull-left">						
+								<div class="span4">
+									<div id="feeds">
+										<a class="feed" href="http://blog.ferperales.net/feed">Latest entries</a>
+										<a class="feed" href="http://blog.ferperales.net/category/english/">English</a> 								</div>									
+									<script type="text/javascript"> 
+										$(document).ready(function() { 
+										        $('a.feed').gFeed( { 
+										        	target: '#feeds', 
+										        	tabs: true,
+										        	max: 3									        
+									        	 } ); 
+										    }); 
+									</script>
+								</div>
 							</div>
+							
 						</div>
 					</div>
 			</div>
@@ -75,9 +90,9 @@
 		<!-- Le javascript
 		================================================== -->
 		<!-- Placed at the end of the document so the pages load faster -->
-		<script src="http://www.google.com/jsapi"></script>
-		<script src="js/jquery-1.9.1.min.js"></script>
+		
 		<script src="js/bootstrap.min.js"></script>
+		<script src="http://www.google.com/jsapi"></script>
 		<script src="js/jquery.gfeed.js"></script>
 
 	</body>
