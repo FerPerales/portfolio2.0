@@ -45,6 +45,15 @@
 					</div>
 					<h1>Blog</h1>
 				</div>
+				
+					<div class="row">
+						<div class="span8 offset2">
+							<div class="span4 pull-left">
+								I have a blog where I write in Spanish 
+							</div>
+							<div class="span4 pull-right"></div>
+						</div>
+					</div>
 			</div>
 			<div id="push"></div>
 		</div>
