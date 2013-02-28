@@ -26,6 +26,8 @@
 	</head>
 
 	<body>
+		<?php include_once("php/tracking.php") ?>
+		
 		<!-- Part 1: Wrap all page content here -->
 		<div id="wrap">
 			<!-- Begin page content -->
