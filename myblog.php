@@ -42,7 +42,7 @@
 						  <li><a href="resume">Résumé</a></li>
 						  <li><a href="portfolio">Portfolio</a></li>						  
 						  <li><a href="contact">Contact</a></li>
-						  <li class="active"><a href="blog">Blog</a></li>
+						  <li class="active"><a href="myblog">Blog</a></li>
 						</ul>
 					</div>
 					<h1>Blog</h1>
