@@ -1,4 +1,4 @@
-<hr width="80%"/>
+<hr width="80%" align="center"/>
 <div id="footer">
 	<div class="container">
 		<div class="row pull-right">
