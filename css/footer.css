@@ -16,9 +16,7 @@ html, body {
 #push, #footer {
 	height: 60px;
 }
-#footer {
-	background-color: #000000;
-}
+
 
 /* Lastly, apply responsive CSS fixes as necessary */
 @media (max-width: 767px) {
