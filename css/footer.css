@@ -12,6 +12,10 @@ html, body {
 	margin: 0 auto -60px;
 }
 
+#footer{
+	border-top: 1px solid #000000;
+}
+
 /* Set the fixed height of the footer here */
 #push, #footer {
 	height: 60px;
