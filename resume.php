@@ -77,7 +77,7 @@
 									<i class="icon-map-marker"></i> Zapopan, jalisco, Mexico
 								</p>
 								<p>
-									<i class="icon-envelope-alt"></i> <img src="img/gmail.png" alt="" />
+									<i class="icon-envelope-alt"></i> <img src="img/gmail.png" alt="me@thisdomain" />
 								</p>
 								<p>
 									<i class="icon-phone-sign"></i> 33 1088 5718
@@ -115,14 +115,14 @@
 								</div>
 								<div id="collapseOne" class="accordion-body collapse in">
 									<div class="accordion-inner">
-										<h4>University of Guadalajara – University Center of Exact Sciences and	Engineering (CUCEI)</h4>
+										<h4 align="center">University of Guadalajara – University Center of Exact Sciences and Engineering (CUCEI)</h4>
 										<p>
 											B. Cs. Computer Engineering
 										</p>
 										<p>
 											2008 - 2012
 										</p>
-										<h4>Instituto Cultural Mexicano-Norteamericano de Jalisco</h4>
+										<h4 align="center">Instituto Cultural Mexicano-Norteamericano de Jalisco</h4>
 										<p>
 											Basic program of English for Adults (1 year)
 										</p>
@@ -277,9 +277,27 @@
 							</div>
 							<div class="accordion-group">
 								<div class="accordion-heading">
-									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour"> <h3 align="center"><i class="icon-wrench"></i> Latest projects <i class="icon-wrench"></i></h3> </a>
+									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour"> <h3 align="center"><i class="icon-briefcase"></i> Laboral experience <i class="icon-briefcase"></i></h3> </a>
 								</div>
 								<div id="collapseFour" class="accordion-body collapse">
+									<div class="accordion-inner">
+										<h4 align="center">Crowd Interactive</h4>
+										<p>
+											Ruby on Rails trainee
+										</p>
+										<p>
+											Feb 2013 - Actual
+										</p>
+																				
+									</div>
+								</div>
+							</div>
+							
+							<div class="accordion-group">
+								<div class="accordion-heading">
+									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFive"> <h3 align="center"><i class="icon-wrench"></i> Latest projects <i class="icon-wrench"></i></h3> </a>
+								</div>
+								<div id="collapseFive" class="accordion-body collapse">
 									<div class="accordion-inner">
 										<div class="span3 pull-left">
 											<h4>Online event registration platform for Hacker Garage</h4>
@@ -340,9 +358,9 @@
 							</div>
 							<div class="accordion-group">
 								<div class="accordion-heading">
-									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFive"> <h3 align="center"><i class="icon-certificate"></i> Workshops and courses given <i class="icon-certificate"></i></h3> </a>
+									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix"> <h3 align="center"><i class="icon-certificate"></i> Workshops and courses given <i class="icon-certificate"></i></h3> </a>
 								</div>
-								<div id="collapseFive" class="accordion-body collapse">
+								<div id="collapseSix" class="accordion-body collapse">
 									<div class="accordion-inner">
 										<h4>DIVECFest 2012 – Universidad de Guadalajara – CUCEI</h4>
 										<ul>
