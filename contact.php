@@ -37,19 +37,19 @@
 					<div class="row pull-right">
 						<ul class="nav nav-pills">
 							<li>
-								<a href="index.php">Home</a>
+								<a href="index">Home</a>
 							</li>
 							<li>
-								<a href="resume.php">Résumé</a>
+								<a href="resume">Résumé</a>
 							</li>
 							<li>
-								<a href="portfolio.php">Portfolio</a>
+								<a href="portfolio">Portfolio</a>
 							</li>
 							<li class="active">
-								<a href="contact.php">Contact</a>
+								<a href="contact">Contact</a>
 							</li>
 							<li>
-								<a href="blog.php">Blog</a>
+								<a href="blog">Blog</a>
 							</li>
 						</ul>
 					</div>
