@@ -1,3 +1,4 @@
+<hr height="80%"/>
 <div id="footer">
 	<div class="container">
 		<div class="row pull-right">
