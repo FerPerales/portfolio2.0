@@ -404,7 +404,16 @@
 		<!-- Placed at the end of the document so the pages load faster -->
 		<script src="js/jquery-1.9.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
-		<script src="js/counter.js"</script>
+		<!--<script src="js/counter.js"</script>-->
+		<script type="text/javascript">$('#times').click(function(){
+			console.log 'click!'
+			var countSpan = $('.download-count',this);
+			console.log countSpan
+			countSpan.text( parseInt(countSpan.text())+1);
+			
+			});
+		</script>
+	
 
 	</body>
 </html>
