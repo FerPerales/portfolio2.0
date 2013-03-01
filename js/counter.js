@@ -1,5 +1,6 @@
 $(document).ready(function(){
 	/* This code is executed after the DOM has been completely loaded */
+	console.log "Counter is ready "
 
 	$('#times').click(function(){
 		console.log 'click!'
