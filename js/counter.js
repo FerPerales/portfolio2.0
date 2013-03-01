@@ -1,4 +1,4 @@
-$(document).ready(function(){
+//$(document).ready(function(){
 	/* This code is executed after the DOM has been completely loaded */
 	console.log "Counter is ready "
 
@@ -9,4 +9,4 @@ $(document).ready(function(){
 		countSpan.text( parseInt(countSpan.text())+1);
 		
 	});
-});
+//});
