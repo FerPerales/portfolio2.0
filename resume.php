@@ -61,7 +61,7 @@
 				</div>
 				<div class="row">
 					<div class="pull-right">															
-						Download<button type="button" id="times" class="btn btn-link btn-large" onclick="window.location.href='cv'"><i class="icon-adobe-pdf"></i></button>
+						Download<a href="cv"> <i class="icon-adobe-pdf"></i></a>
 <?php
 	$hit_count = @file_get_contents('count.txt');
 	$string_var = $hit_count == 1? 'time' : 'times';
@@ -394,7 +394,7 @@
 				</div>
 			</div>
 			<div id="push"></div>
-		</div>
+		</div>		
 <?php	
 	require 'php/footer.php';
 ?>
@@ -404,16 +404,7 @@
 		<!-- Placed at the end of the document so the pages load faster -->
 		<script src="js/jquery-1.9.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
-		<!--<script src="js/counter.js"</script>-->
-		<script type="text/javascript">$('#times').click(function(){
-			console.log 'click!'
-			var countSpan = $('.download-count',this);
-			console.log countSpan
-			countSpan.text( parseInt(countSpan.text())+1);
-			
-			});
-		</script>
-	
-
+		<script src="js/counter.js"</script>
+		
 	</body>
 </html>
