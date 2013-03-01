@@ -1,4 +1,4 @@
-<hr/>
+<hr class="footer-line"/>
 <div id="footer">
 	<div class="container">
 		<div class="row pull-right">
