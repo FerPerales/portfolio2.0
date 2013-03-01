@@ -61,7 +61,7 @@
 				</div>
 				<div class="row">
 					<div class="pull-right">															
-						Download <a href="cv" id="times"><i class="icon-adobe-pdf"></i></a>
+						Download<button type="button" id="times" class="btn btn-link btn-large"><i class="icon-adobe-pdf"></i></button>
 <?php
 	$hit_count = @file_get_contents('count.txt');
 	$string_var = $hit_count == 1? 'time' : 'times';
