@@ -60,8 +60,12 @@
 					<h1>Résumé</h1>
 				</div>
 				<div class="row">
-					<div class="pull-right">
-						Download <a href="cv"><i class="icon-adobe-pdf"></i></a>
+					<div class="pull-right">															
+						Download <a href="cv" id="times"><i class="icon-adobe-pdf"></i></a>
+<?php
+	$hit_count = @file_get_contents('count.txt');
+	echo '<small>'.$hit_count.' downloaded</small>'
+?>
 					</div>
 				</div>
 				<div class="row">
@@ -399,6 +403,7 @@
 		<!-- Placed at the end of the document so the pages load faster -->
 		<script src="js/jquery-1.9.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
+		<script src="js/counter.js"</script>
 
 	</body>
 </html>
