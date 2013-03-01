@@ -61,7 +61,7 @@
 				</div>
 				<div class="row">
 					<div class="pull-right">
-						Download <a href="cv/"><i class="icon-adobe-pdf"></i></a>
+						Download <a href="cv"><i class="icon-adobe-pdf"></i></a>
 					</div>
 				</div>
 				<div class="row">
