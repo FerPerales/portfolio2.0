@@ -64,7 +64,8 @@
 						Download <a href="cv" id="times"><i class="icon-adobe-pdf"></i></a>
 <?php
 	$hit_count = @file_get_contents('count.txt');
-	echo ' | <i class="icon-download-alt"></i> <small><span class="download-count">'.$hit_count.'</span> times</small>'
+	$string_var = $hit_count == 1? 'time' : 'times';
+	echo ' | <i class="icon-download"></i> <small><span class="download-count">'.$hit_count.'</span> '.$string_var.'</small>'
 ?>
 					</div>
 				</div>
