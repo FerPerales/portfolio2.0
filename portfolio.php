@@ -53,8 +53,10 @@
 						<hr/>
 						<ul class="breadcrumb">
 							<li class="active">All</a> <span class="divider">|</span></li>
-							<li><a href="#">Java</a> <span class="divider">|</span></li>					  
+							<li><a href="#">Java</a> <span class="divider">|</span></li>
+							<li><a href="#">C#</a> <span class="divider">|</span></li>								  
 							<li><a href="#">PHP</a> <span class="divider">|</span></li>
+							<li><a href="#">Ruby - Ruby on Rails</a> <span class="divider">|</span></li>			
 							<li><a href="#">BASH</a> <span class="divider">|</span></li>
 							<li><a href="#">Other</a></li>						  
 						</ul>
