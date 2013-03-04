@@ -47,7 +47,10 @@
 				</div>
 				
 				<div class="row">
+					<h1 align="center">Still working on</h1>
+					
 					<div class="span8 offset2">
+						<hr/>
 						<ul class="breadcrumb">
 							<li class="active">All</a> <span class="divider">|</span></li>
 							<li><a href="#">Java</a> <span class="divider">|</span></li>					  
