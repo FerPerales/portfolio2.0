@@ -45,8 +45,81 @@
 					</div>
 					<h1>Portfolio</h1>
 				</div>
-				<div class="span8 offset2">
-					<h2 align="center">Still working on it</h2>
+				<div class="span8 offset2">					
+						<div class="row">
+							<ul class="thumbnails">
+								<li class="span4">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+								</li>
+								<li class="span4">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+								</li>								
+							</ul>
+						</div>	
+						
+						<div class="row">
+							<ul class="thumbnails">
+								<li class="span4">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+								</li>
+								<li class="span4">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+								</li>								
+							</ul>
+						</div>	
+						
+						<div class="row">
+							<ul class="thumbnails">
+								<li class="span4">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+								</li>
+								<li class="span4">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+								</li>								
+							</ul>
+						</div>	
+						
+						<div class="row">
+							<ul class="thumbnails">
+								<li class="span4">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+								</li>
+								<li class="span4">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+								</li>								
+							</ul>
+						</div>	
+						
+						<div class="row">
+							<ul class="thumbnails">
+								<li class="span4">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+								</li>
+								<li class="span4">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+								</li>								
+							</ul>
+						</div>										
 				</div>
 				
 			</div>
