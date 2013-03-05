@@ -18,6 +18,7 @@
 		<!-- CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/footer.css" rel="stylesheet">
+		<link rel="stylesheet" href="css/gallery.css" />
 
 		<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 		<!--[if lt IE 9]>
@@ -67,14 +68,25 @@
 					<div class="row">						
 						<ul class="thumbnails">
 							<li class="span4">
-								<a href="#" class="thumbnail">
-									<img src="http://placehold.it/350x150" alt="">
-								</a>
+								<div class="hover-div">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+									<span class="hover-text">
+										<p>VideoAdmin</p>
+									</span>
+								</div>
 							</li>
 							<li class="span4">
-								<a href="#" class="thumbnail">
-									<img src="http://placehold.it/350x150" alt="">
-								</a>
+								<div class="hover-div">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+									<span class="hover-text">
+										<a href="#"></a>
+										<p>LTSP3</p>
+									</span>
+								</div>
 							</li>								
 						</ul>
 					</div>	
@@ -82,14 +94,24 @@
 					<div class="row">
 						<ul class="thumbnails">
 							<li class="span4">
-								<a href="#" class="thumbnail">
-									<img src="http://placehold.it/350x150" alt="">
-								</a>
+								<div class="hover-div">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+									<span class="hover-text">
+										<p>Scolarship Unit</p>
+									</span>
+								</div>
 							</li>
 							<li class="span4">
-								<a href="#" class="thumbnail">
-									<img src="http://placehold.it/350x150" alt="">
-								</a>
+								<div class="hover-div">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+									<span class="hover-text">
+										<p>Sharealla</p>
+									</span>
+								</div>
 							</li>								
 						</ul>
 					</div>	
@@ -97,14 +119,24 @@
 					<div class="row">
 						<ul class="thumbnails">
 							<li class="span4">
-								<a href="#" class="thumbnail">
-									<img src="http://placehold.it/350x150" alt="">
-								</a>
+								<div class="hover-div">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+									<span class="hover-text">
+										<p>HTML5 training</p>
+									</span>
+								</div>
 							</li>
 							<li class="span4">
-								<a href="#" class="thumbnail">
-									<img src="http://placehold.it/350x150" alt="">
-								</a>
+								<div class="hover-div">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+									<span class="hover-text">
+										<p>NWN module</p>
+									</span>
+								</div>
 							</li>								
 						</ul>
 					</div>	
@@ -112,14 +144,24 @@
 					<div class="row">
 						<ul class="thumbnails">
 							<li class="span4">
-								<a href="#" class="thumbnail">
-									<img src="http://placehold.it/350x150" alt="">
-								</a>
+								<div class="hover-div">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+									<span class="hover-text">
+										<p>Memorama</p>
+									</span>
+								</div>
 							</li>
 							<li class="span4">
-								<a href="#" class="thumbnail">
-									<img src="http://placehold.it/350x150" alt="">
-								</a>
+								<div class="hover-div">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+									<span class="hover-text">
+										<p>Cross Words</p>
+									</span>
+								</div>
 							</li>								
 						</ul>
 					</div>	
@@ -127,14 +169,24 @@
 					<div class="row">
 						<ul class="thumbnails">
 							<li class="span4">
-								<a href="#" class="thumbnail">
-									<img src="http://placehold.it/350x150" alt="">
-								</a>
+								<div class="hover-div">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+									<span class="hover-text">
+										<p>ToDo list</p>
+									</span>
+								</div>
 							</li>
 							<li class="span4">
-								<a href="#" class="thumbnail">
-									<img src="http://placehold.it/350x150" alt="">
-								</a>
+								<div class="hover-div">
+									<a href="#" class="thumbnail">
+										<img src="http://placehold.it/350x150" alt="">
+									</a>
+									<span class="hover-text">
+										<p>Eventos HG (Hacker Garage)</p>
+									</span>
+								</div>
 							</li>								
 						</ul>
 					</div>										

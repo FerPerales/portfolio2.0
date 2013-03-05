@@ -1,0 +1,26 @@
+div.hover-div{
+    display:block;
+    position:relative;
+    margin-bottom:10px;
+}
+
+div.hover-div:hover .hover-text{
+    display:block;        
+}
+
+div.hover-div:hover img{
+    opacity:0.8;        
+}
+    
+.hover-text{
+    display:none;
+    clear:both;
+    margin-top:-20px;
+    background: rgba(0,0,0,0.2);
+    color:white;
+    width: 100%;
+    height: 50%;
+    bottom:0;
+    position:absolute;
+    z-index:2;    
+}
