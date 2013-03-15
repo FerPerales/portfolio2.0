@@ -80,7 +80,7 @@
 									<i class="icon-calendar"></i> October 17th, 1989
 								</p>
 								<p>
-									<i class="icon-map-marker"></i> Zapopan, jalisco, Mexico
+									<i class="icon-map-marker"></i> Colima, Colima, Mexico
 								</p>
 								<p>
 									<i class="icon-envelope-alt"></i> <img src="img/gmail.png" alt="me@thisdomain" />
