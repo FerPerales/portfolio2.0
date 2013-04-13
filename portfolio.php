@@ -53,13 +53,15 @@
 					<div class="span8 offset2">
 						<hr/>
 						<ul class="breadcrumb">
-							<li class="active">All</a> <span class="divider">|</span></li>
-							<li><a href="#">Java</a> <span class="divider">|</span></li>
-							<li><a href="#">C#</a> <span class="divider">|</span></li>								  
-							<li><a href="#">PHP</a> <span class="divider">|</span></li>
-							<li><a href="#">Ruby - Ruby on Rails</a> <span class="divider">|</span></li>			
-							<li><a href="#">BASH</a> <span class="divider">|</span></li>
-							<li><a href="#">Other</a></li>						  
+							<li class="active" data-language="all"><a href="#">All</a> <span class="divider">|</span></li>
+							<li data-language="java"><a href="#">Java</a> <span class="divider">|</span></li>
+							<li data-language="csharp"><a href="#">C#</a> <span class="divider">|</span></li>				
+							<li data-language="ruby"><a href="#">Ruby</a><span class="divider">|</span></li>	
+							<li data-language="frontend"><a href="#">HTML + CSS + Javascript</a><span class="divider">|</span></li>			  
+							<li data-language="php"><a href="#">PHP</a> <span class="divider">|</span></li>
+							<li data-language="rails"><a href="#">Ruby on Rails</a> <span class="divider">|</span></li>			
+							<li data-language="bash"><a href="#">BASH</a> <span class="divider">|</span></li>
+							<li data-language="other"><a href="#">Other</a></li>						  
 						</ul>
 					</div>
 				</div>
@@ -67,9 +69,9 @@
 				<div class="span8 offset2">		
 					<div class="row">						
 						<ul class="thumbnails">
-							<li class="span4">
+							<li class="span4" data-language="java">
 								<div class="hover-div">
-									<a href="#" class="thumbnail">
+									<a href="#" class="thumbnail" >
 										<img src="img/thumbnails/videoadmin.png" alt="">
 									</a>
 									<span class="hover-text">
@@ -77,9 +79,9 @@
 									</span>
 								</div>
 							</li>
-							<li class="span4">
+							<li class="span4" data-language="bash">
 								<div class="hover-div">
-									<a href="#" class="thumbnail">
+									<a href="#" class="thumbnail" >
 										<img src="http://placehold.it/350x150" alt="">
 									</a>
 									<span class="hover-text">
@@ -93,9 +95,9 @@
 						
 					<div class="row">
 						<ul class="thumbnails">
-							<li class="span4">
+							<li class="span4" data-language="java">
 								<div class="hover-div">
-									<a href="#" class="thumbnail">
+									<a href="#" class="thumbnail" >
 										<img src="img/thumbnails/scolarship.png" alt="">
 									</a>
 									<span class="hover-text">
@@ -103,9 +105,9 @@
 									</span>
 								</div>
 							</li>
-							<li class="span4">
+							<li class="span4" data-language="java">
 								<div class="hover-div">
-									<a href="#" class="thumbnail">
+									<a href="#" class="thumbnail" >
 										<img src="img/thumbnails/sharealla.png" alt="">
 									</a>
 									<span class="hover-text">
@@ -118,9 +120,9 @@
 					
 					<div class="row">
 						<ul class="thumbnails">
-							<li class="span4">
+							<li class="span4" data-language="frontend">
 								<div class="hover-div">
-									<a href="#" class="thumbnail">
+									<a href="#" class="thumbnail" >
 										<img src="img/thumbnails/html5.png" alt="">
 									</a>
 									<span class="hover-text">
@@ -128,9 +130,9 @@
 									</span>
 								</div>
 							</li>
-							<li class="span4">
+							<li class="span4" data-language="other">
 								<div class="hover-div">
-									<a href="#" class="thumbnail">
+									<a href="#" class="thumbnail" >
 										<img src="img/thumbnails/NWN.png" alt="">
 									</a>
 									<span class="hover-text">
@@ -143,9 +145,9 @@
 					
 					<div class="row">
 						<ul class="thumbnails">
-							<li class="span4">
+							<li class="span4" data-language="csharp">
 								<div class="hover-div">
-									<a href="#" class="thumbnail">
+									<a href="#" class="thumbnail" >
 										<img src="http://placehold.it/350x150" alt="">
 									</a>
 									<span class="hover-text">
@@ -153,9 +155,9 @@
 									</span>
 								</div>
 							</li>
-							<li class="span4">
+							<li class="span4" data-language="csharp">
 								<div class="hover-div">
-									<a href="#" class="thumbnail">
+									<a href="#" class="thumbnail" >
 										<img src="img/thumbnails/crosswords.png" alt="">
 									</a>
 									<span class="hover-text">
@@ -168,9 +170,9 @@
 					
 					<div class="row">
 						<ul class="thumbnails">
-							<li class="span4">
+							<li class="span4" data-language="csharp">
 								<div class="hover-div">
-									<a href="#" class="thumbnail">
+									<a href="#" class="thumbnail" >
 										<img src="img/thumbnails/todolist.png" alt="">
 									</a>
 									<span class="hover-text">
@@ -178,16 +180,16 @@
 									</span>
 								</div>
 							</li>
-							<li class="span4">
+							<li class="span4" data-language="php">
 								<div class="hover-div">
-									<a href="#" class="thumbnail">
+									<a href="#" class="thumbnail" >
 										<img src="img/thumbnails/eventosHG.png" alt="">
 									</a>
 									<span class="hover-text">
 										<p>Eventos HG (Hacker Garage)</p>
 									</span>
 								</div>
-							</li>								
+							</li>						
 						</ul>
 					</div>										
 				</div>				
