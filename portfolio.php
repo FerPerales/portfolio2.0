@@ -79,17 +79,16 @@
 									</span>
 								</div>
 							</li>
-							<li class="span4" data-language="bash">
+							<li class="span4" data-language="java">
 								<div class="hover-div">
 									<a href="#" class="thumbnail" >
-										<img src="http://placehold.it/350x150" alt="">
+										<img src="img/thumbnails/sharealla.png" alt="">
 									</a>
 									<span class="hover-text">
-										<a href="#"></a>
-										<p>LTSP3</p>
+										<p>Sharealla</p>
 									</span>
 								</div>
-							</li>								
+							</li>					
 						</ul>
 					</div>	
 						
@@ -104,17 +103,18 @@
 										<p>Scolarship Unit</p>
 									</span>
 								</div>
-							</li>
-							<li class="span4" data-language="java">
+							</li>							
+							<li class="span4" data-language="bash">
 								<div class="hover-div">
 									<a href="#" class="thumbnail" >
-										<img src="img/thumbnails/sharealla.png" alt="">
+										<img src="http://placehold.it/350x150" alt="">
 									</a>
 									<span class="hover-text">
-										<p>Sharealla</p>
+										<a href="#"></a>
+										<p>LTSP3</p>
 									</span>
 								</div>
-							</li>								
+							</li>																				
 						</ul>
 					</div>	
 					
