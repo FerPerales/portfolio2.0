@@ -205,6 +205,27 @@
 		<!-- Placed at the end of the document so the pages load faster -->
 		<script src="js/jquery-1.9.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
+		<script type="text/javascript">
+			var projects = $('.thumbnails');
+			var language = "all";
+			var prev = language;
+			$('.breadcrumb').on('click', 'li', function(){	
+							
+							
+				language = $(this).data("language");
+				
+				if (language == 'all') {
+					projects.find('li').show(1000);
+				}	else {					
+					language = $(this).data("language");					
+					projects.find('li[data-language*="' + language + '"]').show(1000);
+					projects.find('li:not([data-language*="' + language + '"])').hide(1000);
+				}
+			});
+			
+			
+		</script>
+		
 
 	</body>
 </html>
