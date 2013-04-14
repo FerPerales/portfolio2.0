@@ -55,15 +55,15 @@
 					<div class="span8 offset2">
 						<hr/>
 						<ul class="breadcrumb">
-							<li class="active" data-language="all"><a href="#">All</a> <span class="divider">|</span></li>
-							<li data-language="java"><a href="#">Java</a> <span class="divider">|</span></li>
-							<li data-language="csharp"><a href="#">C#</a> <span class="divider">|</span></li>				
-							<li data-language="ruby"><a href="#">Ruby</a><span class="divider">|</span></li>	
-							<li data-language="frontend"><a href="#">HTML + CSS + Javascript</a><span class="divider">|</span></li>			  
-							<li data-language="php"><a href="#">PHP</a> <span class="divider">|</span></li>
-							<li data-language="rails"><a href="#">Ruby on Rails</a> <span class="divider">|</span></li>			
-							<li data-language="bash"><a href="#">BASH</a> <span class="divider">|</span></li>
-							<li data-language="other"><a href="#">Other</a></li>						  
+							<li class="active" data-language="all">All <span class="divider">|</span></li>
+							<li data-language="java">Java <span class="divider">|</span></li>
+							<li data-language="csharp">C# <span class="divider">|</span></li>				
+							<li data-language="ruby">Ruby <span class="divider">|</span></li>	
+							<li data-language="frontend">HTML + CSS + Javascript <span class="divider">|</span></li>			  
+							<li data-language="php">PHP <span class="divider">|</span></li>
+							<li data-language="rails">Ruby on Rails <span class="divider">|</span></li>			
+							<li data-language="bash">BASH <span class="divider">|</span></li>
+							<li data-language="other">Other </li>						  
 						</ul>
 					</div>
 				</div>
