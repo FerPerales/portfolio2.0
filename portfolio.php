@@ -3,22 +3,24 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Fer Perales :: Portfolio</title>
-		<link rel="shortcut icon" href="img/favicon.ico">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="">
-		<meta name="author" content="Fer Perales">
 		
+<?php	
+	require 'php/common_metas.php';
+?>
+
 		<meta property="og:title" content="Fer Perales :: Portfolio"/>
-		<meta property="og:url" content="http://ferperales.net"/>
-		<meta property="og:image" content="http://ferperales.net/img/favicon.ico"/>
-		<meta property="og:type" content="website"/>
-		<meta property="og:site_name" content="Fer Perales"/>
-		<meta property="og:description" content="Fer Perales is a software craftsman apretience"/>
 
 		<!-- CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/footer.css" rel="stylesheet">
 		<link rel="stylesheet" href="css/gallery.css" />
+		<style type="text/css">
+			.breadcrumb li {
+				color: #0088cc;
+				cursor:pointer;
+			}
+		</style>
+		
 
 		<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 		<!--[if lt IE 9]>
