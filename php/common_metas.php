@@ -8,5 +8,5 @@
 		print '<meta property="og:image" content="http://ferperales.net/img/wecode.jpg">'."\n";
 		print '<meta property="og:type" content="website">'."\n";
 		print '<meta property="og:site_name" content="Fer Perales">'."\n";
-		print '<meta property="og:description" content="Fer Perales is a software craftsman apretience">'."\n";
+		print '<meta property="og:description" content="Fer Perales is a software craftsman apprentice currently working at Crowd Interactive.">'."\n";
 ?>
