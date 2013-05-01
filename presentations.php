@@ -2,10 +2,10 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Fer Perales :: Résumé</title>
+		<title>Fer Perales :: Presentations</title>
 		
 <?php	require 'php/common_metas.php' ?>		
-		<meta property="og:title" content="Fer Perales :: Resume"/>
+		<meta property="og:title" content="Fer Perales :: Presentations"/>
 
 		<!-- CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -33,7 +33,7 @@
 			</div>
 			<div class="span8 offset2">
 				<div>
-					One of the things I really love is to share the little knowledge I've gotten along these years and the best 
+					Under construction. You can take a look at my speakerdeck profile and my prezi profile
 				</div>					
 			</div>
 		</div>
