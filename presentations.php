@@ -4,9 +4,7 @@
 		<meta charset="utf-8">
 		<title>Fer Perales :: Résumé</title>
 		
-<?php	
-	require 'php/common_metas.php';
-?>		
+<?php	require 'php/common_metas.php' ?>		
 		<meta property="og:title" content="Fer Perales :: Resume"/>
 
 		<!-- CSS -->
@@ -26,54 +24,29 @@
 	<body>
 <?php include_once("php/tracking.php") ?>
 
-<div id="wrap">
-
-			<!-- Begin page content -->
-			<div class="container">
-				<div class="page-header">
-					<div class="row pull-right">
-						<ul class="nav nav-pills">
-							<li id="index">
-								<a href="index">Home</a>
-							</li>
-							<li id='resume'>
-								<a href="resume">Résumé</a>
-							</li>
-							<li id='portfolio'>
-								<a href="portfolio">Portfolio</a>
-							</li>
-							<li id='contact'>
-								<a href="contact">Contact</a>
-							</li>
-							<li id='myblog'>
-								<a href="myblog">Blog</a>
-							</li>
-						</ul>
-					</div>
-					<h1>Presentations</h1>
-				</div>
-				<div class="span8 offset2">
-					<div>
-						One of the things I really love is to share the little knowledge I've gotten along these years and the best 
-					</div>
-					
-				</div>
+	<div id="wrap">
+		<!-- Begin page content -->
+		<div class="container">
+			<div class="page-header">
+<?php include_once("php/menu.php") ?>
+				<h1>Presentations</h1>
 			</div>
-			<div id="push"></div>
+			<div class="span8 offset2">
+				<div>
+					One of the things I really love is to share the little knowledge I've gotten along these years and the best 
+				</div>					
+			</div>
 		</div>
+		<div id="push"></div>
+	</div>
 
+<?php	require 'php/footer.php' ?>
 
-
-
-<?php	
-	require 'php/footer.php';
-?>
-
-		<!-- Le javascript
-		================================================== -->
-		<!-- Placed at the end of the document so the pages load faster -->
-		<script src="js/jquery-1.9.1.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/select_menu.js"></script>
-		<script src="js/counter.js"></script>
-	</body>
+	<!-- Le javascript
+	================================================== -->
+	<!-- Placed at the end of the document so the pages load faster -->
+	<script src="js/jquery-1.9.1.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/select_menu.js"></script>
+	<script src="js/counter.js"></script>
+</body>
