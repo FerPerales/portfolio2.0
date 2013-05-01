@@ -29,7 +29,7 @@
 				<div class="page-header">				
 					<div class="row pull-right">
 						<ul class="nav nav-pills">
-							<li id="index" class="active">
+							<li id="index">
 								<a href="index">Home</a>
 							</li>
 							<li id='resume'>
@@ -77,6 +77,6 @@
 		<!-- Placed at the end of the document so the pages load faster -->
 		<script src="js/jquery-1.9.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
-
+		<script src="js/select_menu.js"></script>
 	</body>
 </html>

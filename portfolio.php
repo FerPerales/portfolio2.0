@@ -45,7 +45,7 @@
 							<li id='resume'>
 								<a href="resume">Résumé</a>
 							</li>
-							<li id='portfolio' class="active">
+							<li id='portfolio'>
 								<a href="portfolio">Portfolio</a>
 							</li>
 							<li id='contact'>
@@ -216,6 +216,7 @@
 		<!-- Placed at the end of the document so the pages load faster -->
 		<script src="js/jquery-1.9.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
+		<script src="js/select_menu.js"></script>
 		<script type="text/javascript">
 			var projects = $('.thumbnails');
 			var language = "all";
@@ -235,7 +236,5 @@
 				prevOption.addClass('active');
 			});
 		</script>
-		
-
 	</body>
 </html>

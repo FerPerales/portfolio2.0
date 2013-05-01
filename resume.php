@@ -37,7 +37,7 @@
 							<li id="index">
 								<a href="index">Home</a>
 							</li>
-							<li id='resume' class="active">
+							<li id='resume'>
 								<a href="resume">Résumé</a>
 							</li>
 							<li id='portfolio'>
@@ -398,9 +398,7 @@
 		<!-- Placed at the end of the document so the pages load faster -->
 		<script src="js/jquery-1.9.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
+		<script src="js/select_menu.js"></script>
 		<script src="js/counter.js"</script>
-		<script type="text/javascript">
-			console.log("prueba");
-		</script>
 	</body>
 </html>

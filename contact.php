@@ -38,7 +38,7 @@
 							<li id='portfolio'>
 								<a href="portfolio">Portfolio</a>
 							</li>
-							<li id='contact' class="active">
+							<li id='contact'>
 								<a href="contact">Contact</a>
 							</li>
 							<li id='myblog'>
@@ -64,6 +64,7 @@
 		<!-- Placed at the end of the document so the pages load faster -->
 		<script src="js/jquery-1.9.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
+		<script src="js/select_menu.js"></script>
 		<script type="text/javascript">
 			var disqus_shortname = 'comentariosferperalesnet';
 			(function() {
@@ -74,6 +75,5 @@
 				(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
 			})();
 		</script>
-
 	</body>
 </html>
