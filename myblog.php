@@ -30,11 +30,21 @@
 				<div class="page-header">				
 					<div class="row pull-right">
 						<ul class="nav nav-pills">
-						  <li><a href="index">Home</a></li>
-						  <li><a href="resume">Résumé</a></li>
-						  <li><a href="portfolio">Portfolio</a></li>						  
-						  <li><a href="contact">Contact</a></li>
-						  <li class="active"><a href="myblog">Blog</a></li>
+							<li id="index">
+								<a href="index">Home</a>
+							</li>
+							<li id='resume'>
+								<a href="resume">Résumé</a>
+							</li>
+							<li id='portfolio'>
+								<a href="portfolio">Portfolio</a>
+							</li>
+							<li id='contact'>
+								<a href="contact">Contact</a>
+							</li>
+							<li id='myblog' class="active">
+								<a href="myblog">Blog</a>
+							</li>
 						</ul>
 					</div>
 					<h1>Blog</h1>

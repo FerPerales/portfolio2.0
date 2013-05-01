@@ -29,11 +29,21 @@
 				<div class="page-header">				
 					<div class="row pull-right">
 						<ul class="nav nav-pills">
-						  <li class="active"><a href="index">Home</a></li>
-						  <li><a href="resume">Résumé</a></li>
-						  <li><a href="portfolio">Portfolio</a></li>						  
-						  <li><a href="contact">Contact</a></li>
-						  <li><a href="myblog">Blog</a></li>
+							<li id="index" class="active">
+								<a href="index">Home</a>
+							</li>
+							<li id='resume'>
+								<a href="resume">Résumé</a>
+							</li>
+							<li id='portfolio'>
+								<a href="portfolio">Portfolio</a>
+							</li>
+							<li id='contact'>
+								<a href="contact">Contact</a>
+							</li>
+							<li id='myblog'>
+								<a href="myblog">Blog</a>
+							</li>
 						</ul>
 					</div>
 					<h1>Fer Perales</h1>

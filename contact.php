@@ -29,19 +29,19 @@
 				<div class="page-header">
 					<div class="row pull-right">
 						<ul class="nav nav-pills">
-							<li>
+							<li id="index">
 								<a href="index">Home</a>
 							</li>
-							<li>
+							<li id='resume'>
 								<a href="resume">Résumé</a>
 							</li>
-							<li>
+							<li id='portfolio'>
 								<a href="portfolio">Portfolio</a>
 							</li>
-							<li class="active">
+							<li id='contact' class="active">
 								<a href="contact">Contact</a>
 							</li>
-							<li>
+							<li id='myblog'>
 								<a href="myblog">Blog</a>
 							</li>
 						</ul>
