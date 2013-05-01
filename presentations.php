@@ -33,7 +33,7 @@
 			</div>
 			<div class="span8 offset2">
 				<div>
-					Under construction. You can take a look at my speakerdeck profile and my prezi profile
+					Under construction. You can take a look at my <a href="https://speakerdeck.com/ferperales">SpeakerDeck</a> profile and my <a href="http://prezi.com/user/FerPerales/">Prezi</a> profile. I would really appreciate your feedback in case you attended one of my talks by sharing your thoughts on my <a href="http://speakerrate.com/ferperales">SpeakerRate</a> profile.
 				</div>					
 			</div>
 		</div>
