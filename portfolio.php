@@ -4,9 +4,7 @@
 		<meta charset="utf-8">
 		<title>Fer Perales :: Portfolio</title>
 		
-<?php	
-	require 'php/common_metas.php';
-?>
+<?php	require 'php/common_metas.php' ?>
 
 		<meta property="og:title" content="Fer Perales :: Portfolio"/>
 
@@ -30,7 +28,7 @@
 	</head>
 
 	<body>
-		<?php include_once("php/tracking.php") ?>
+<?php include_once("php/tracking.php") ?>
 		<!-- Part 1: Wrap all page content here -->
 		<div id="wrap">
 
@@ -207,9 +205,7 @@
 			</div>
 			<div id="push"></div>
 		</div>
-<?php	
-	require 'php/footer.php';
-?>
+<?php	require 'php/footer.php' ?>
 
 		<!-- Le javascript
 		================================================== -->

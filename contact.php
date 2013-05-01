@@ -3,9 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Fer Perales :: Contact</title>
-<?php	
-	require 'php/common_metas.php';
-?>
+<?php	require 'php/common_metas.php' ?>
 		<meta property="og:title" content="Fer Perales :: Contact"/>
 		<!-- CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -19,7 +17,7 @@
 	</head>
 
 	<body>
-		<?php include_once("php/tracking.php") ?>
+<?php include_once("php/tracking.php") ?>
 		
 		<!-- Part 1: Wrap all page content here -->
 		<div id="wrap">
@@ -27,25 +25,7 @@
 			<!-- Begin page content -->
 			<div class="container">
 				<div class="page-header">
-					<div class="row pull-right">
-						<ul class="nav nav-pills">
-							<li id="index">
-								<a href="index">Home</a>
-							</li>
-							<li id='resume'>
-								<a href="resume">Résumé</a>
-							</li>
-							<li id='portfolio'>
-								<a href="portfolio">Portfolio</a>
-							</li>
-							<li id='contact'>
-								<a href="contact">Contact</a>
-							</li>
-							<li id='myblog'>
-								<a href="myblog">Blog</a>
-							</li>
-						</ul>
-					</div>
+<?php include_once("php/menu.php") ?>		
 					<h1>Contact</h1>
 				</div>
 				<div class="span8 offset2">
@@ -54,9 +34,7 @@
 			</div>
 			<div id="push"></div>
 		</div>
-<?php	
-	require 'php/footer.php';
-?>
+<?php	require 'php/footer.php' ?>
 
 
 		<!-- Le javascript
