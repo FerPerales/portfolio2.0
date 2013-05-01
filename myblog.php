@@ -26,7 +26,6 @@
 			<!-- Begin page content -->
 			<div class="container">
 				<div class="page-header">
-					<div class="row pull-right">
 <?php include_once("php/menu.php") ?>
 					<h1>Blog</h1>
 				</div>
