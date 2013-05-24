@@ -1,4 +1,6 @@
 portfolio2.0
 ============
 
-A second version of the ferperales.net portfolio
+A second version of the ferperales.net [portfolio](http://ferperales.net)
+
+
