@@ -7,7 +7,6 @@
 <?php	require 'php/common_metas.php' ?>		
 		<meta property="og:title" content="Fer Perales :: Presentations"/>
 
-		<!-- CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/footer.css" rel="stylesheet">
 		<link href="css/font-awesome.min.css" rel="stylesheet"/>
@@ -51,7 +50,6 @@
 					</div>
 				</div>	
 				
-
 			</div>
 		</div>
 		<div id="push"></div>
@@ -59,9 +57,6 @@
 
 <?php	require 'php/footer.php' ?>
 
-	<!-- Le javascript
-	================================================== -->
-	<!-- Placed at the end of the document so the pages load faster -->
 	<script src="js/jquery-1.9.1.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/select_menu.js"></script>
