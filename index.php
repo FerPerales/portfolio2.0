@@ -30,9 +30,18 @@
 				</div>			
 				<div class="span8 offset2">
 					<h2 align="center">About me</h2>
-					<p>
-						<script src="//about.me/embed/ferperales?image=0&amp;name=0&amp;apps=0&amp;style=site"></script>
-					</p>
+					<div class="row">
+						<div class="span4">
+							<img src="img/yo.png" alt="8 bits me" />
+						</div>
+					
+						<div class="span4">						
+							<script src="//about.me/embed/ferperales?image=0&amp;name=0&amp;apps=0&amp;style=site"></script>					
+						</div>
+					</div>
+					
+					
+					
 					<hr/>
 					<section>
 						<h2 align="center">What I'm doing</h2>
