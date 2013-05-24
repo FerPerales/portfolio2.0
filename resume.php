@@ -7,7 +7,6 @@
 <?php	require 'php/common_metas.php' ?>		
 		<meta property="og:title" content="Fer Perales :: Resume"/>
 
-		<!-- CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/footer.css" rel="stylesheet">
 		<link href="css/font-awesome.min.css" rel="stylesheet"/>
@@ -24,10 +23,8 @@
 	<body>
 <?php include_once("php/tracking.php") ?>
 
-		<!-- Part 1: Wrap all page content here -->
 		<div id="wrap">
 
-			<!-- Begin page content -->
 			<div class="container">
 				<div class="page-header">
 <?php include_once("php/menu.php") ?>
@@ -91,18 +88,18 @@
 						<div class="accordion" id="accordion2">
 							<div class="accordion-group">
 								<div class="accordion-heading">
-									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne"> <h3 align="center"><i class="icon-book"></i> Academic formation <i class="icon-book"></i></h3> </a>
+									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne"> <h3 class="centered-text"><i class="icon-book"></i> Academic formation <i class="icon-book"></i></h3> </a>
 								</div>
 								<div id="collapseOne" class="accordion-body collapse in">
 									<div class="accordion-inner">
-										<h4 align="center">University of Guadalajara – University Center of Exact Sciences and Engineering (CUCEI)</h4>
+										<h4 class="centered-text">University of Guadalajara – University Center of Exact Sciences and Engineering (CUCEI)</h4>
 										<p>
 											B. Cs. Computer Engineering
 										</p>
 										<p>
 											2008 - 2012
 										</p>
-										<h4 align="center">Instituto Cultural Mexicano-Norteamericano de Jalisco</h4>
+										<h4 class="centered-text">Instituto Cultural Mexicano-Norteamericano de Jalisco</h4>
 										<p>
 											Basic program of English for Adults (1 year)
 										</p>
@@ -257,7 +254,7 @@
 							</div>
 							<div class="accordion-group">
 								<div class="accordion-heading">
-									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour"> <h3 align="center"><i class="icon-briefcase"></i> Laboral experience <i class="icon-briefcase"></i></h3> </a>
+									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour"> <h3 class="centered-text"><i class="icon-briefcase"></i> Professional experience <i class="icon-briefcase"></i></h3> </a>
 								</div>
 								<div id="collapseFour" class="accordion-body collapse">
 									<div class="accordion-inner">
@@ -338,27 +335,32 @@
 							</div>
 							<div class="accordion-group">
 								<div class="accordion-heading">
-									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix"> <h3 align="center"><i class="icon-certificate"></i> Workshops and courses given <i class="icon-certificate"></i></h3> </a>
+									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix"> <h3 align="center"><i class="icon-certificate"></i> Workshops and talks given <i class="icon-certificate"></i></h3> </a>
 								</div>
 								<div id="collapseSix" class="accordion-body collapse">
 									<div class="accordion-inner">
-										<h4>DIVECFest 2012 – Universidad de Guadalajara – CUCEI</h4>
+										<h4 class="centered-text">DIVECFest 2012 – Universidad de Guadalajara – CUCEI</h4>
 										<ul>
 											<li>
 												Workshop: Desarrollo de aplicaciones móviles con Phonegap (Mobile application development with Phonegap) (4 hours)
 											</li>
 											<li>
-												Conference: Introducción a bases de datos noSQL (Introduction to noSQL databases) (1 hour)
+												Talk: Introducción a bases de datos noSQL (Introduction to noSQL databases) (1 hour)
 											</li>
 											<li>
-												Conference: Piensa y emprende: introducción a la metodología Lean Startup (Think and startup: introduction to Lean Startup methodology) (1 hour)
+												Talk: Piensa y emprende: introducción a la metodología Lean Startup (Think and startup: introduction to Lean Startup methodology) (1 hour)
 											</li>
 										</ul>
-										<h4>2do encuentro estudiantil Ingenieros al ataque – Centro del Software</h4>
+										<h4 class="centered-text">2do encuentro estudiantil Ingenieros al ataque – Centro del Software</h4>
 										<ul>
 											<li>
 												Informal talk: Introducción a Lean Startup (Introduction to Lean Startup) (1 hour)
 											</li>
+										</ul>
+										<h4 class="centered-text">DIVECFest 2013 – Universidad de Guadalajara – CUCEI</h4>
+										<ul>
+											<li>Workshop: Fundamentos de Ruby / Ruby on Rails (Ruby / Ruby on Rails fundaments) (3 hours)</li>
+											<li>Talk: I finished university: now what I do? (1 hour)</li>
 										</ul>
 									</div>
 								</div>
@@ -371,9 +373,6 @@
 		</div>		
 <?php	require 'php/footer.php' ?>
 
-		<!-- Le javascript
-		================================================== -->
-		<!-- Placed at the end of the document so the pages load faster -->
 		<script src="js/jquery-1.9.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/select_menu.js"></script>
