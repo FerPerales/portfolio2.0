@@ -42,12 +42,15 @@
 				<div>
 					<h2 class="centered-text">Latest talk</h2>
 					<p>I presented a talk called 'I finished university school: now what I do?' at <a href="hpp://divecfest.cucei.udg.mx">DivecFest</a> 2013 in May 14th. In this talk, I expose the opportunities that a just graduated IT student have to start a sucessful professional carrer: what kind of jobs can their get as well as the advantages and disadvantages of those options and some tips and advise to help them get their dream job </p>
-					<p>The talk was given in Spanish and the slides used are showed below</p>
-					
-					
-					
-					<script async class="speakerdeck-embed" data-id="a93b60209e7501301b2f469a61e096c5" data-ratio="1.33507170795306" src="//speakerdeck.com/assets/embed.js"></script>
+					<p>The talk was given in Spanish and the slides used are showed below</p>										
 				</div>
+				
+				<div class="row">
+					<div class="span4 offset2">
+						<script async class="speakerdeck-embed" data-id="a93b60209e7501301b2f469a61e096c5" data-ratio="1.33507170795306" src="//speakerdeck.com/assets/embed.js"></script>				
+					</div>
+				</div>	
+				
 
 			</div>
 		</div>
