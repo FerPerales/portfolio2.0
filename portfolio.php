@@ -8,7 +8,6 @@
 
 		<meta property="og:title" content="Fer Perales :: Portfolio"/>
 
-		<!-- CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/footer.css" rel="stylesheet">
 		<link rel="stylesheet" href="css/gallery.css" />
@@ -18,21 +17,16 @@
 				cursor:pointer;
 			}
 		</style>
-		
-
 		<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 		<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
-
 	</head>
 
 	<body>
 <?php include_once("php/tracking.php") ?>
-		<!-- Part 1: Wrap all page content here -->
 		<div id="wrap">
 
-			<!-- Begin page content -->
 			<div class="container">
 				<div class="page-header">				
 					<div class="row pull-right">
@@ -191,9 +185,6 @@
 		</div>
 <?php	require 'php/footer.php' ?>
 
-		<!-- Le javascript
-		================================================== -->
-		<!-- Placed at the end of the document so the pages load faster -->
 		<script src="js/jquery-1.9.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/select_menu.js"></script>

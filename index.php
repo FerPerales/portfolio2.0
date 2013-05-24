@@ -5,12 +5,8 @@
 		<title>Fer Perales :: Home</title>
 <?php	require 'php/common_metas.php' ?>	
 		<meta property="og:title" content="Fer Perales :: Home"/>
-
-
-		<!-- CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/footer.css" rel="stylesheet">
-
 		<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 		<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -18,11 +14,8 @@
 	</head>
 
 	<body>
-<?php include_once("php/tracking.php") ?>
-		
-		<!-- Part 1: Wrap all page content here -->
+<?php include_once("php/tracking.php") ?>		
 		<div id="wrap">
-			<!-- Begin page content -->
 			<div class="container">
 				<div class="page-header">				
 <?php include_once("php/menu.php") ?>
@@ -40,11 +33,9 @@
 						</div>
 					</div>
 					
-					
-					
 					<hr/>
 					<section>
-						<h2 align="center">What I'm doing</h2>
+						<h2 class="centered-text">What I'm doing</h2>
 						<p>Some of the things I've been working on in the last months are:</p>
 						<ul>						
 							<li><a href="http://github.com/FerPerales/fancy-explorer">Fancy explorer</a> A ruby-based file explorer to make mananing your files funnier than ever! <span class="label label-success">New </span> </a></li>							
@@ -59,9 +50,6 @@
 		</div>
 <?php	require 'php/footer.php' ?>
 
-		<!-- Le javascript
-		================================================== -->
-		<!-- Placed at the end of the document so the pages load faster -->
 		<script src="js/jquery-1.9.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/select_menu.js"></script>
