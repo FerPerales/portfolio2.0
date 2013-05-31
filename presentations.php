@@ -40,7 +40,7 @@
 
 				<div>
 					<h2 class="centered-text">Latest talk</h2>
-					<p>I presented a talk called 'I finished university school: now what I do?' at <a href="hpp://divecfest.cucei.udg.mx">DivecFest</a> 2013 in May 14th. In this talk, I expose the opportunities that a just graduated IT student have to start a sucessful professional carrer: what kind of jobs can their get as well as the advantages and disadvantages of those options and some tips and advise to help them get their dream job </p>
+					<p>I presented a talk called 'Terminé la universidad: ¿ahora qué hago?' (I finished university school: now what I do?) at <a href="hpp://divecfest.cucei.udg.mx">DivecFest</a> 2013 in May 14th. In this talk, I expose the opportunities that a just graduated IT student have to start a sucessful professional carrer: what kind of jobs can their get as well as the advantages and disadvantages of those options and some tips and advise to help them get their dream job </p>
 					<p>The talk was given in Spanish and the slides used are showed below</p>										
 				</div>
 				
