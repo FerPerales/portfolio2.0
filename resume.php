@@ -22,7 +22,6 @@
 
 	<body>
 <?php include_once("php/tracking.php") ?>
-
 		<div id="wrap">
 
 			<div class="container">
@@ -342,10 +341,10 @@
 										<h4 class="centered-text">DIVECFest 2012 – Universidad de Guadalajara – CUCEI</h4>
 										<ul>
 											<li>
-												Workshop: Desarrollo de aplicaciones móviles con Phonegap (Mobile application development with Phonegap) (4 hours)
+												Workshop: Desarrollo de aplicaciones m&oacute;viles con Phonegap (Mobile application development with Phonegap) (4 hours)
 											</li>
 											<li>
-												Talk: Introducción a bases de datos noSQL (Introduction to noSQL databases) (1 hour)
+												Talk: Introducci&oacute;n a bases de datos noSQL (Introduction to noSQL databases) (1 hour)
 											</li>
 											<li>
 												Talk: Piensa y emprende: introducción a la metodología Lean Startup (Think and startup: introduction to Lean Startup methodology) (1 hour)
@@ -360,7 +359,7 @@
 										<h4 class="centered-text">DIVECFest 2013 – Universidad de Guadalajara – CUCEI</h4>
 										<ul>
 											<li>Workshop: Fundamentos de Ruby / Ruby on Rails (Ruby / Ruby on Rails fundaments) (3 hours)</li>
-											<li>Talk: I finished university: now what I do? (1 hour)</li>
+											<li>Talk: Termin&eacute; la universidad: &iquest;ahora qu&eacute; hago? (I finished university: now what I do?) (1 hour)</li>
 										</ul>
 									</div>
 								</div>
