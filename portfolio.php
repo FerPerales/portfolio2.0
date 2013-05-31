@@ -28,8 +28,7 @@
 		<div id="wrap">
 
 			<div class="container">
-				<div class="page-header">				
-					<div class="row pull-right">
+				<div class="page-header">			
 <?php include_once("php/menu.php") ?>
 					<h1>Portfolio</h1>
 				</div>
